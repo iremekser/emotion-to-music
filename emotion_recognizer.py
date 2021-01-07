@@ -20,13 +20,10 @@ printable = set(
 )
 printable.update(list("öçşüğı"))
 
-# ZEMBEREK_PATH = r'data/zemberek-full.jar'
-# startJVM(getDefaultJVMPath(), '-ea', '-Djava.class.path=%s' % (ZEMBEREK_PATH))
-# TurkishMorphology = JClass('zemberek.morphology.TurkishMorphology')
-# morphology = TurkishMorphology.createWithDefaults()
-
-
 def clear(text, morphology):
+# girilen cumledeki stopWords'ler kaldirilir
+# olusturulan morphology e gore kokler alinir
+# cumle icindeki isaretler kaldirilir
     text = text.replace('İ', 'i').replace('I', 'ı').lower().split()
     text = ' '.join([i for i in text if i not in stops])
     analysis: java.util.ArrayList = (
@@ -56,11 +53,13 @@ def clear(text, morphology):
 
 
 def read_txt(file, morphology):
+# veri setlerini temizleyip okuma islemi
     with open(file) as f:
         return [clear(i.replace('\n', ''), morphology) for i in f.readlines()]
 
 
 def avg_sentence_vector(words, model, num_features):
+# cumlelerin vektorleri olusturulurken kullanilir
     featureVec = np.zeros((num_features, ), dtype="float32")
     nwords = 0
     for word in words:
@@ -74,6 +73,8 @@ def avg_sentence_vector(words, model, num_features):
 
 
 def similarity(sentence, main_data, model):
+# kullanicidan alinan sentence ile veri seti karsilastirilir
+# uyumluluk hesaplanir
     vec1 = avg_sentence_vector(sentence.split(), model=model, num_features=100)
     results = []
     for i in main_data:
@@ -85,6 +86,7 @@ def similarity(sentence, main_data, model):
 
 
 def cosine(u, v):
+# iki vektorun uyumlulugunu hesaplarken kullanılan fonksiyon
     u = u[0]
     v = v[0]
     dot = sum([a * b for a, b in zip(list(u), list(v))])
@@ -97,6 +99,7 @@ def cosine(u, v):
 
 
 def generate_model(main_data, name, morphology):
+# word2vec algoritmasina gore model olusturma
     if path.isfile(name + '.bin'):
         model = Word2Vec.load(name + '.bin')
         model.vocab = model.wv.vocab
@@ -119,11 +122,14 @@ def generate_model(main_data, name, morphology):
 
 
 def read_song_json(filename):
+# sarkilarin oldugu json dosyalarini okuma
     with open(filename) as f:
         return json.loads(f.read())
 
 
 def test(morphology):
+# programi test etmek icin elimizdeki verilerin %25 i alinir
+# kalan kisimla karsilastirilir
     neg = read_txt('data/negatif.txt', morphology)
     pos = read_txt('data/pozitif.txt', morphology)
     neg_test, neg_train = neg[:int(len(neg) / 4)], neg[int(len(neg) / 4):]
@@ -166,7 +172,7 @@ def test(morphology):
 
 
 def predict(s, morphology):
-
+# kullanicinin girdigi sentence'a gore gerceklestirilen islemler
     s = clear(s, morphology)
     negative = read_txt('data/negatif.txt', morphology)
     positive = read_txt('data/pozitif.txt', morphology)
@@ -188,6 +194,7 @@ def predict(s, morphology):
 
 
 def suggest_song(result):
+# duygu durumuna gore cikan sonuca gore sarki onerisi
     if result['result'] == 1:
         tracks = read_song_json('data/happy_songs.json')
     elif result['result'] == 0:
