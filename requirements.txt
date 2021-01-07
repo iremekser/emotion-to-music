@@ -1,10 +1,8 @@
 typing
 jpype1
-re
 json
 numpy
 gensim.models
-os
 random
 flask
 flask_cors
