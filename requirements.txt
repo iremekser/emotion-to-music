@@ -8,3 +8,4 @@ os
 random
 flask
 flask_cors
+gunicorn
