@@ -1,9 +1,7 @@
 typing
 jpype1
-json
 numpy
-gensim.models
-random
+gensim
 flask
 flask_cors
 gunicorn
