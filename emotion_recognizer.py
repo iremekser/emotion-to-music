@@ -11,10 +11,10 @@ stops = ['acaba', 'ama', 'aslında', 'az', 'bazı', 'belki', 'biri', 'birkaç', 
 printable = set('0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~ \t\n\r\x0b\x0c')
 printable.update(list("öçşüğı"))
 
-ZEMBEREK_PATH = r'data/zemberek-full.jar'
-startJVM(getDefaultJVMPath(), '-ea', '-Djava.class.path=%s' % (ZEMBEREK_PATH))
-TurkishMorphology = JClass('zemberek.morphology.TurkishMorphology')
-morphology = TurkishMorphology.createWithDefaults()
+# ZEMBEREK_PATH = r'data/zemberek-full.jar'
+# startJVM(getDefaultJVMPath(), '-ea', '-Djava.class.path=%s' % (ZEMBEREK_PATH))
+# TurkishMorphology = JClass('zemberek.morphology.TurkishMorphology')
+# morphology = TurkishMorphology.createWithDefaults()
 
 
 def clear(text):
@@ -150,14 +150,24 @@ def test():
 
     return neg_results, pos_results
 
-
+morphology = None;
 def predict(s):
+    global morphology;
+    if not morphology:
+        ZEMBEREK_PATH = r'data/zemberek-full.jar'
+        startJVM(getDefaultJVMPath(), '-ea', '-Djava.class.path=%s' % (ZEMBEREK_PATH))
+        TurkishMorphology = JClass('zemberek.morphology.TurkishMorphology')
+        morphology = TurkishMorphology.createWithDefaults()
+
     s = clear(s)
     negative = read_txt('data/uzgun.txt')
     positive = read_txt('data/mutlu.txt')
 
-    pos_skor = similarity(s, positive, 'positive')
-    neg_skor = similarity(s, negative, 'negative')
+    neg_model = generate_model(negative, 'negative')
+    pos_model = generate_model(positive, 'positive')
+
+    pos_skor = similarity(s, positive, pos_model)
+    neg_skor = similarity(s, negative, neg_model)
     print("neg:",neg_skor)
     print("pos:",pos_skor)
     if pos_skor < neg_skor:
