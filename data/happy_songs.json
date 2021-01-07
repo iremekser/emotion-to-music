@@ -1,0 +1,2314 @@
+[
+  {
+    "name": "Şans Meleğim",
+    "id": "0YUCEubKOccZGuCWABCH0E",
+    "album": {
+      "id": "3AwGdyZqZkoIZpNthGScMP",
+      "name": "Aşka Türlü Şeyler",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27364547e687c3523ce8935d8ba",
+      "uri": "spotify:album:3AwGdyZqZkoIZpNthGScMP",
+      "artists": [
+        { "name": "Kenan Doğulu", "id": "2RQ8NtUmg5y6tfbvCwX8jI" }
+      ]
+    },
+    "analyse": {
+      "danceability": 0.733,
+      "energy": 0.873,
+      "key": 1,
+      "loudness": -4.858,
+      "mode": 1,
+      "speechiness": 0.0549,
+      "acousticness": 0.0808,
+      "instrumentalness": 7.37e-5,
+      "liveness": 0.575,
+      "valence": 0.673,
+      "tempo": 99.988,
+      "type": "audio_features",
+      "id": "0YUCEubKOccZGuCWABCH0E",
+      "uri": "spotify:track:0YUCEubKOccZGuCWABCH0E",
+      "track_href": "https://api.spotify.com/v1/tracks/0YUCEubKOccZGuCWABCH0E",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/0YUCEubKOccZGuCWABCH0E",
+      "duration_ms": 236973,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Kırmızı",
+    "id": "2pTVNLRAfud4odx8SSO6cY",
+    "album": {
+      "id": "1IC4txFhUnJv0Tfi6FhKZm",
+      "name": "Aşk Kadın Ruhundan Anlamıyor",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731ef9d0eb5d57369dc5c16773",
+      "uri": "spotify:album:1IC4txFhUnJv0Tfi6FhKZm",
+      "artists": [{ "name": "Hande Yener", "id": "08mjMUUjyTchMHCW7evc3R" }]
+    },
+    "analyse": {
+      "danceability": 0.83,
+      "energy": 0.795,
+      "key": 1,
+      "loudness": -6.363,
+      "mode": 0,
+      "speechiness": 0.0481,
+      "acousticness": 0.12,
+      "instrumentalness": 0,
+      "liveness": 0.358,
+      "valence": 0.945,
+      "tempo": 130.004,
+      "type": "audio_features",
+      "id": "2pTVNLRAfud4odx8SSO6cY",
+      "uri": "spotify:track:2pTVNLRAfud4odx8SSO6cY",
+      "track_href": "https://api.spotify.com/v1/tracks/2pTVNLRAfud4odx8SSO6cY",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/2pTVNLRAfud4odx8SSO6cY",
+      "duration_ms": 212560,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Ele Güne Karşı",
+    "id": "3Sy3MuMeVhCd2QwDwy0W6Q",
+    "album": {
+      "id": "0NyY9YsGb9YniAs5h6Eva4",
+      "name": "Ele Güne Karşı Yapayalnız",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739ee0dd0ae7e5c49101c99ef4",
+      "uri": "spotify:album:0NyY9YsGb9YniAs5h6Eva4",
+      "artists": [{ "name": "MFÖ", "id": "2jbrqAuwSdvwcMTbtvncND" }]
+    },
+    "analyse": {
+      "danceability": 0.509,
+      "energy": 0.817,
+      "key": 4,
+      "loudness": -8.129,
+      "mode": 0,
+      "speechiness": 0.0935,
+      "acousticness": 0.0676,
+      "instrumentalness": 1.13e-5,
+      "liveness": 0.21,
+      "valence": 0.713,
+      "tempo": 147.815,
+      "type": "audio_features",
+      "id": "3Sy3MuMeVhCd2QwDwy0W6Q",
+      "uri": "spotify:track:3Sy3MuMeVhCd2QwDwy0W6Q",
+      "track_href": "https://api.spotify.com/v1/tracks/3Sy3MuMeVhCd2QwDwy0W6Q",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Sy3MuMeVhCd2QwDwy0W6Q",
+      "duration_ms": 189367,
+      "time_signature": 3
+    }
+  },
+  {
+    "name": "Aşkın Ateşi",
+    "id": "7ChKLgOTcpEJazEwkxe7yk",
+    "album": {
+      "id": "5fkHZFhWQJMGy5XTXpPqS8",
+      "name": "Apayrı",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b623964d5c21ee0a64dd7e76",
+      "uri": "spotify:album:5fkHZFhWQJMGy5XTXpPqS8",
+      "artists": [{ "name": "Hande Yener", "id": "08mjMUUjyTchMHCW7evc3R" }]
+    },
+    "analyse": {
+      "danceability": 0.756,
+      "energy": 0.639,
+      "key": 7,
+      "loudness": -5.93,
+      "mode": 1,
+      "speechiness": 0.0631,
+      "acousticness": 0.000859,
+      "instrumentalness": 3.81e-6,
+      "liveness": 0.0498,
+      "valence": 0.961,
+      "tempo": 101.02,
+      "type": "audio_features",
+      "id": "7ChKLgOTcpEJazEwkxe7yk",
+      "uri": "spotify:track:7ChKLgOTcpEJazEwkxe7yk",
+      "track_href": "https://api.spotify.com/v1/tracks/7ChKLgOTcpEJazEwkxe7yk",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/7ChKLgOTcpEJazEwkxe7yk",
+      "duration_ms": 232280,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Bütün Kızlar Topandık",
+    "id": "0RKOBhIYYQlL2tqBD52P91",
+    "album": {
+      "id": "2HYPBl4uMgym3HqkGexAuH",
+      "name": "Nil FM",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bea7ba3a6d3d3cab5caa3faa",
+      "uri": "spotify:album:2HYPBl4uMgym3HqkGexAuH",
+      "artists": [
+        { "name": "Nil Karaibrahimgil", "id": "1PpRPZXSS5ka7m5NW2TO7q" }
+      ]
+    },
+    "analyse": {
+      "danceability": 0.796,
+      "energy": 0.901,
+      "key": 8,
+      "loudness": -4.718,
+      "mode": 1,
+      "speechiness": 0.107,
+      "acousticness": 0.0236,
+      "instrumentalness": 0,
+      "liveness": 0.301,
+      "valence": 0.865,
+      "tempo": 100.004,
+      "type": "audio_features",
+      "id": "0RKOBhIYYQlL2tqBD52P91",
+      "uri": "spotify:track:0RKOBhIYYQlL2tqBD52P91",
+      "track_href": "https://api.spotify.com/v1/tracks/0RKOBhIYYQlL2tqBD52P91",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/0RKOBhIYYQlL2tqBD52P91",
+      "duration_ms": 224707,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Çakkıdı",
+    "id": "4AD6k6PNF1V8rHq8uU0wSY",
+    "album": {
+      "id": "5nfMcUmu2aX8jRd2HuiLWC",
+      "name": "Festival",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273dd402a653f28a25293a33c1d",
+      "uri": "spotify:album:5nfMcUmu2aX8jRd2HuiLWC",
+      "artists": [
+        { "name": "Kenan Doğulu", "id": "2RQ8NtUmg5y6tfbvCwX8jI" }
+      ]
+    },
+    "analyse": {
+      "danceability": 0.874,
+      "energy": 0.696,
+      "key": 7,
+      "loudness": -8.741,
+      "mode": 1,
+      "speechiness": 0.116,
+      "acousticness": 0.0305,
+      "instrumentalness": 0.000278,
+      "liveness": 0.0358,
+      "valence": 0.49,
+      "tempo": 105.03,
+      "type": "audio_features",
+      "id": "4AD6k6PNF1V8rHq8uU0wSY",
+      "uri": "spotify:track:4AD6k6PNF1V8rHq8uU0wSY",
+      "track_href": "https://api.spotify.com/v1/tracks/4AD6k6PNF1V8rHq8uU0wSY",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/4AD6k6PNF1V8rHq8uU0wSY",
+      "duration_ms": 198713,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Alain Delon",
+    "id": "4yccHGC21IWH4Apx0LWL6e",
+    "album": {
+      "id": "5AW5T48YywJb1YfqroKCfs",
+      "name": "130 Bpm",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f9839359b632869b8c874a55",
+      "uri": "spotify:album:5AW5T48YywJb1YfqroKCfs",
+      "artists": [
+        { "name": "Ozan Doğulu", "id": "6xLv41SHPrVVfvyGd1M7ut" }
+      ]
+    },
+    "analyse": {
+      "danceability": 0.643,
+      "energy": 0.823,
+      "key": 11,
+      "loudness": -6.305,
+      "mode": 1,
+      "speechiness": 0.0501,
+      "acousticness": 0.00433,
+      "instrumentalness": 2.33e-6,
+      "liveness": 0.143,
+      "valence": 0.821,
+      "tempo": 176.007,
+      "type": "audio_features",
+      "id": "4yccHGC21IWH4Apx0LWL6e",
+      "uri": "spotify:track:4yccHGC21IWH4Apx0LWL6e",
+      "track_href": "https://api.spotify.com/v1/tracks/4yccHGC21IWH4Apx0LWL6e",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/4yccHGC21IWH4Apx0LWL6e",
+      "duration_ms": 231957,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Bandıra Bandıra",
+    "id": "5nyTwED4Anc7K1GuhEmY0N",
+    "album": {
+      "id": "7Dc4AJuOo0jwTmyl0oWS0n",
+      "name": "Yonca Evcimik 94",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273db5ab29c714cefb0783634de",
+      "uri": "spotify:album:7Dc4AJuOo0jwTmyl0oWS0n",
+      "artists": [{ "name": "Yonca Evcimik", "id": "7uViwGf6m3VatgaIx4It0s" }]
+    },
+    "analyse": {
+      "danceability": 0.808,
+      "energy": 0.361,
+      "key": 10,
+      "loudness": -16.455,
+      "mode": 0,
+      "speechiness": 0.113,
+      "acousticness": 0.114,
+      "instrumentalness": 0,
+      "liveness": 0.0865,
+      "valence": 0.811,
+      "tempo": 104.064,
+      "type": "audio_features",
+      "id": "5nyTwED4Anc7K1GuhEmY0N",
+      "uri": "spotify:track:5nyTwED4Anc7K1GuhEmY0N",
+      "track_href": "https://api.spotify.com/v1/tracks/5nyTwED4Anc7K1GuhEmY0N",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/5nyTwED4Anc7K1GuhEmY0N",
+      "duration_ms": 207893,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Karabiberim",
+    "id": "73y3B6WnY28e2qKrCV4NtY",
+    "album": {
+      "id": "778GI92FZ8xCISWO9EPktB",
+      "name": "Aşk İçin",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273107036c0cf96731c39d4ed3b",
+      "uri": "spotify:album:778GI92FZ8xCISWO9EPktB",
+      "artists": [
+        { "name": "Serdar Ortaç", "id": "7BJjzi0JHyDHAsmVe21dGa" }
+      ]
+    },
+    "analyse": {
+      "danceability": 0.783,
+      "energy": 0.835,
+      "key": 5,
+      "loudness": -11.876,
+      "mode": 1,
+      "speechiness": 0.0438,
+      "acousticness": 0.648,
+      "instrumentalness": 0.00057,
+      "liveness": 0.05,
+      "valence": 0.968,
+      "tempo": 151.994,
+      "type": "audio_features",
+      "id": "73y3B6WnY28e2qKrCV4NtY",
+      "uri": "spotify:track:73y3B6WnY28e2qKrCV4NtY",
+      "track_href": "https://api.spotify.com/v1/tracks/73y3B6WnY28e2qKrCV4NtY",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/73y3B6WnY28e2qKrCV4NtY",
+      "duration_ms": 227933,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "...dan sonra",
+    "id": "5UjJSTvG1JMX5JxdVBYqGS",
+    "album": {
+      "id": "0S5Mnn6Eeuqvo907BqTgqM",
+      "name": "Sıla",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d0f5fc2dcd7055347c38ceae",
+      "uri": "spotify:album:0S5Mnn6Eeuqvo907BqTgqM",
+      "artists": [{ "name": "Sıla", "id": "5gFPi3KWXEwA9bLEO47Ow0" }]
+    },
+    "analyse": {
+      "danceability": 0.804,
+      "energy": 0.774,
+      "key": 8,
+      "loudness": -4.489,
+      "mode": 0,
+      "speechiness": 0.197,
+      "acousticness": 0.00113,
+      "instrumentalness": 0.0015,
+      "liveness": 0.0572,
+      "valence": 0.696,
+      "tempo": 102.029,
+      "type": "audio_features",
+      "id": "5UjJSTvG1JMX5JxdVBYqGS",
+      "uri": "spotify:track:5UjJSTvG1JMX5JxdVBYqGS",
+      "track_href": "https://api.spotify.com/v1/tracks/5UjJSTvG1JMX5JxdVBYqGS",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/5UjJSTvG1JMX5JxdVBYqGS",
+      "duration_ms": 218933,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Ele Güne Karşı",
+    "id": "3Sy3MuMeVhCd2QwDwy0W6Q",
+    "album": {
+      "id": "0NyY9YsGb9YniAs5h6Eva4",
+      "name": "Ele Güne Karşı Yapayalnız",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739ee0dd0ae7e5c49101c99ef4",
+      "uri": "spotify:album:0NyY9YsGb9YniAs5h6Eva4",
+      "artists": [{ "name": "MFÖ", "id": "2jbrqAuwSdvwcMTbtvncND" }]
+    },
+    "analyse": {
+      "danceability": 0.509,
+      "energy": 0.817,
+      "key": 4,
+      "loudness": -8.129,
+      "mode": 0,
+      "speechiness": 0.0935,
+      "acousticness": 0.0676,
+      "instrumentalness": 1.13e-5,
+      "liveness": 0.21,
+      "valence": 0.713,
+      "tempo": 147.815,
+      "type": "audio_features",
+      "id": "3Sy3MuMeVhCd2QwDwy0W6Q",
+      "uri": "spotify:track:3Sy3MuMeVhCd2QwDwy0W6Q",
+      "track_href": "https://api.spotify.com/v1/tracks/3Sy3MuMeVhCd2QwDwy0W6Q",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Sy3MuMeVhCd2QwDwy0W6Q",
+      "duration_ms": 189367,
+      "time_signature": 3
+    }
+  },
+  {
+    "name": "Yaparım Bilirsin",
+    "id": "0Ct9Y9hFbJp97uw2HIBCZT",
+    "album": {
+      "id": "52qMKAUzdyL74ucuAAUbpk",
+      "name": "Yaparım Bilirsin",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27302be11d5d0d11d56f6e52076",
+      "uri": "spotify:album:52qMKAUzdyL74ucuAAUbpk",
+      "artists": [
+        { "name": "Kenan Doğulu", "id": "2RQ8NtUmg5y6tfbvCwX8jI" }
+      ]
+    },
+    "analyse": {
+      "danceability": 0.76,
+      "energy": 0.917,
+      "key": 1,
+      "loudness": -7.308,
+      "mode": 0,
+      "speechiness": 0.136,
+      "acousticness": 0.311,
+      "instrumentalness": 0,
+      "liveness": 0.0411,
+      "valence": 0.8,
+      "tempo": 99.708,
+      "type": "audio_features",
+      "id": "0Ct9Y9hFbJp97uw2HIBCZT",
+      "uri": "spotify:track:0Ct9Y9hFbJp97uw2HIBCZT",
+      "track_href": "https://api.spotify.com/v1/tracks/0Ct9Y9hFbJp97uw2HIBCZT",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/0Ct9Y9hFbJp97uw2HIBCZT",
+      "duration_ms": 235627,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Gamzelim",
+    "id": "47b3QZ2nq61s7AiIyLQkZF",
+    "album": {
+      "id": "6651SYpuSQnMdAXgw3dQgb",
+      "name": "Yaz Yağmuru",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27397d2620a7a273db37a43b452",
+      "uri": "spotify:album:6651SYpuSQnMdAXgw3dQgb",
+      "artists": [
+        { "name": "Serdar Ortaç", "id": "7BJjzi0JHyDHAsmVe21dGa" }
+      ]
+    },
+    "analyse": {
+      "danceability": 0.76,
+      "energy": 0.73,
+      "key": 11,
+      "loudness": -11.125,
+      "mode": 0,
+      "speechiness": 0.136,
+      "acousticness": 0.194,
+      "instrumentalness": 0,
+      "liveness": 0.0367,
+      "valence": 0.942,
+      "tempo": 148.077,
+      "type": "audio_features",
+      "id": "47b3QZ2nq61s7AiIyLQkZF",
+      "uri": "spotify:track:47b3QZ2nq61s7AiIyLQkZF",
+      "track_href": "https://api.spotify.com/v1/tracks/47b3QZ2nq61s7AiIyLQkZF",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/47b3QZ2nq61s7AiIyLQkZF",
+      "duration_ms": 229773,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Kuzu Kuzu",
+    "id": "3ajYmPDtB3P7JTPQ64Dr7P",
+    "album": {
+      "id": "11KfFiHZxXiBoEq52HAsJi",
+      "name": "Karma",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d3d5d5dcf25a85205584c1ff",
+      "uri": "spotify:album:11KfFiHZxXiBoEq52HAsJi",
+      "artists": [{ "name": "Tarkan", "id": "2yMN0IP20GOaN6q0p0zL5k" }]
+    },
+    "analyse": {
+      "danceability": 0.705,
+      "energy": 0.883,
+      "key": 4,
+      "loudness": -8.351,
+      "mode": 0,
+      "speechiness": 0.0508,
+      "acousticness": 0.0223,
+      "instrumentalness": 0.00834,
+      "liveness": 0.0526,
+      "valence": 0.73,
+      "tempo": 93.909,
+      "type": "audio_features",
+      "id": "3ajYmPDtB3P7JTPQ64Dr7P",
+      "uri": "spotify:track:3ajYmPDtB3P7JTPQ64Dr7P",
+      "track_href": "https://api.spotify.com/v1/tracks/3ajYmPDtB3P7JTPQ64Dr7P",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/3ajYmPDtB3P7JTPQ64Dr7P",
+      "duration_ms": 233639,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Kumralım",
+    "id": "3tCCD2qQLdC99YkRwGPSsx",
+    "album": {
+      "id": "07yiI9ScrZV7DXiObRz6Sp",
+      "name": "Divane",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d6652ff2755bedbda0914b35",
+      "uri": "spotify:album:07yiI9ScrZV7DXiObRz6Sp",
+      "artists": [{ "name": "Yaşar", "id": "50AOA3aPd6tc928KEYaljF" }]
+    },
+    "analyse": {
+      "danceability": 0.723,
+      "energy": 0.942,
+      "key": 9,
+      "loudness": -7.141,
+      "mode": 0,
+      "speechiness": 0.169,
+      "acousticness": 0.435,
+      "instrumentalness": 0,
+      "liveness": 0.151,
+      "valence": 0.66,
+      "tempo": 114.943,
+      "type": "audio_features",
+      "id": "3tCCD2qQLdC99YkRwGPSsx",
+      "uri": "spotify:track:3tCCD2qQLdC99YkRwGPSsx",
+      "track_href": "https://api.spotify.com/v1/tracks/3tCCD2qQLdC99YkRwGPSsx",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/3tCCD2qQLdC99YkRwGPSsx",
+      "duration_ms": 210840,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Hovarda",
+    "id": "0mJwTj7ldazo0CIYPt4wkN",
+    "album": {
+      "id": "1WYxdDka4CGsqcHtXPIpPx",
+      "name": "Hovarda",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27382039702092f07b1965e4f9b",
+      "uri": "spotify:album:1WYxdDka4CGsqcHtXPIpPx",
+      "artists": [
+        {
+          "name": "Emel Müftüoğlu",
+          "id": "5pKOCtPDoRLKjR3ZJlI74u"
+        }
+      ]
+    },
+    "analyse": {
+      "danceability": 0.711,
+      "energy": 0.682,
+      "key": 6,
+      "loudness": -13.481,
+      "mode": 0,
+      "speechiness": 0.0928,
+      "acousticness": 0.032,
+      "instrumentalness": 0,
+      "liveness": 0.0565,
+      "valence": 0.917,
+      "tempo": 130.05,
+      "type": "audio_features",
+      "id": "0mJwTj7ldazo0CIYPt4wkN",
+      "uri": "spotify:track:0mJwTj7ldazo0CIYPt4wkN",
+      "track_href": "https://api.spotify.com/v1/tracks/0mJwTj7ldazo0CIYPt4wkN",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/0mJwTj7ldazo0CIYPt4wkN",
+      "duration_ms": 251868,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Sevdik Sevdalandık",
+    "id": "56oHEPvPd0sV7w6wLp4Wt6",
+    "album": {
+      "id": "1zEw1pI7A8Cp3BN4HzaHmJ",
+      "name": "Sevdik Sevdalandık",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273233ae31af32bdccf7274c6f4",
+      "uri": "spotify:album:1zEw1pI7A8Cp3BN4HzaHmJ",
+      "artists": [{ "name": "Reyhan Karaca", "id": "6wNvXCOkxIzJm2Y2kBuuBG" }]
+    },
+    "analyse": {
+      "danceability": 0.834,
+      "energy": 0.772,
+      "key": 1,
+      "loudness": -12.436,
+      "mode": 0,
+      "speechiness": 0.107,
+      "acousticness": 0.149,
+      "instrumentalness": 0,
+      "liveness": 0.0276,
+      "valence": 0.942,
+      "tempo": 103.068,
+      "type": "audio_features",
+      "id": "56oHEPvPd0sV7w6wLp4Wt6",
+      "uri": "spotify:track:56oHEPvPd0sV7w6wLp4Wt6",
+      "track_href": "https://api.spotify.com/v1/tracks/56oHEPvPd0sV7w6wLp4Wt6",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/56oHEPvPd0sV7w6wLp4Wt6",
+      "duration_ms": 258907,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Pırlanta",
+    "id": "1Xb5nakKpz6DqZNnV9YEos",
+    "album": {
+      "id": "6rO6n6JZaKIE2VcjtmzBx6",
+      "name": "Tek Taşımı Kendim Aldım",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f22f0a3ab76b923df54b73b0",
+      "uri": "spotify:album:6rO6n6JZaKIE2VcjtmzBx6",
+      "artists": [
+        { "name": "Nil Karaibrahimgil", "id": "1PpRPZXSS5ka7m5NW2TO7q" }
+      ]
+    },
+    "analyse": {
+      "danceability": 0.868,
+      "energy": 0.803,
+      "key": 0,
+      "loudness": -4.697,
+      "mode": 1,
+      "speechiness": 0.0565,
+      "acousticness": 0.00516,
+      "instrumentalness": 3.54e-6,
+      "liveness": 0.417,
+      "valence": 0.665,
+      "tempo": 120.013,
+      "type": "audio_features",
+      "id": "1Xb5nakKpz6DqZNnV9YEos",
+      "uri": "spotify:track:1Xb5nakKpz6DqZNnV9YEos",
+      "track_href": "https://api.spotify.com/v1/tracks/1Xb5nakKpz6DqZNnV9YEos",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/1Xb5nakKpz6DqZNnV9YEos",
+      "duration_ms": 222800,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Aya Benzer",
+    "id": "6T1F7KwvtxUIsZXmRXyv3X",
+    "album": {
+      "id": "2UZXwLUnhlMeQ9fmqt0EaN",
+      "name": "Detay",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27341307e0b6ee53c6315e9723b",
+      "uri": "spotify:album:2UZXwLUnhlMeQ9fmqt0EaN",
+      "artists": [{ "name": "Mustafa Sandal", "id": "0mkH5jj3goQ51JtPKVodTo" }]
+    },
+    "analyse": {
+      "danceability": 0.702,
+      "energy": 0.874,
+      "key": 2,
+      "loudness": -9.863,
+      "mode": 0,
+      "speechiness": 0.0601,
+      "acousticness": 0.168,
+      "instrumentalness": 2.15e-5,
+      "liveness": 0.129,
+      "valence": 0.87,
+      "tempo": 95.036,
+      "type": "audio_features",
+      "id": "6T1F7KwvtxUIsZXmRXyv3X",
+      "uri": "spotify:track:6T1F7KwvtxUIsZXmRXyv3X",
+      "track_href": "https://api.spotify.com/v1/tracks/6T1F7KwvtxUIsZXmRXyv3X",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/6T1F7KwvtxUIsZXmRXyv3X",
+      "duration_ms": 236360,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Delice Bir Sevda",
+    "id": "3kHkCdyodHh6inbtJuodAM",
+    "album": {
+      "id": "4VcBKVdt7d1wUUeGsvYX26",
+      "name": "Senden Uzak",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27373dd167c9c57065fbee5fc9d",
+      "uri": "spotify:album:4VcBKVdt7d1wUUeGsvYX26",
+      "artists": [{ "name": "Ege", "id": "3nmYPDXqMqkNIujfm9wGDg" }]
+    },
+    "analyse": {
+      "danceability": 0.702,
+      "energy": 0.663,
+      "key": 1,
+      "loudness": -10.365,
+      "mode": 0,
+      "speechiness": 0.0655,
+      "acousticness": 0.109,
+      "instrumentalness": 0,
+      "liveness": 0.0509,
+      "valence": 0.579,
+      "tempo": 100.03,
+      "type": "audio_features",
+      "id": "3kHkCdyodHh6inbtJuodAM",
+      "uri": "spotify:track:3kHkCdyodHh6inbtJuodAM",
+      "track_href": "https://api.spotify.com/v1/tracks/3kHkCdyodHh6inbtJuodAM",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/3kHkCdyodHh6inbtJuodAM",
+      "duration_ms": 292000,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Asuman Pansuman",
+    "id": "5ViSCYeoBGFTtW4dcfc7bk",
+    "album": {
+      "id": "0juCIKF8JYZ56cIBmGHCPF",
+      "name": "Mutlu Olmak İstiyorum",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bf10a79db0fb5386292609e9",
+      "uri": "spotify:album:0juCIKF8JYZ56cIBmGHCPF",
+      "artists": [{ "name": "Mirkelam", "id": "7o8wIiSHxNMlXrtR1OWPH0" }]
+    },
+    "analyse": {
+      "danceability": 0.75,
+      "energy": 0.729,
+      "key": 4,
+      "loudness": -5.94,
+      "mode": 0,
+      "speechiness": 0.0376,
+      "acousticness": 0.0377,
+      "instrumentalness": 4.76e-5,
+      "liveness": 0.0913,
+      "valence": 0.3,
+      "tempo": 110.003,
+      "type": "audio_features",
+      "id": "5ViSCYeoBGFTtW4dcfc7bk",
+      "uri": "spotify:track:5ViSCYeoBGFTtW4dcfc7bk",
+      "track_href": "https://api.spotify.com/v1/tracks/5ViSCYeoBGFTtW4dcfc7bk",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/5ViSCYeoBGFTtW4dcfc7bk",
+      "duration_ms": 222067,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Hüp",
+    "id": "0ZoWRdF0aj5nigXXJZFrNb",
+    "album": {
+      "id": "11KfFiHZxXiBoEq52HAsJi",
+      "name": "Karma",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d3d5d5dcf25a85205584c1ff",
+      "uri": "spotify:album:11KfFiHZxXiBoEq52HAsJi",
+      "artists": [{ "name": "Tarkan", "id": "2yMN0IP20GOaN6q0p0zL5k" }]
+    },
+    "analyse": {
+      "danceability": 0.727,
+      "energy": 0.916,
+      "key": 9,
+      "loudness": -7.671,
+      "mode": 0,
+      "speechiness": 0.0527,
+      "acousticness": 0.123,
+      "instrumentalness": 0.000319,
+      "liveness": 0.312,
+      "valence": 0.888,
+      "tempo": 111.981,
+      "type": "audio_features",
+      "id": "0ZoWRdF0aj5nigXXJZFrNb",
+      "uri": "spotify:track:0ZoWRdF0aj5nigXXJZFrNb",
+      "track_href": "https://api.spotify.com/v1/tracks/0ZoWRdF0aj5nigXXJZFrNb",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/0ZoWRdF0aj5nigXXJZFrNb",
+      "duration_ms": 219521,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Tavla",
+    "id": "4aszqTKbVDgtoTq2coBT2t",
+    "album": {
+      "id": "06NY0Tr8dJyG8bPj2lpMUf",
+      "name": "Mirkelam",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ac2eef16499afdc64841cef6",
+      "uri": "spotify:album:06NY0Tr8dJyG8bPj2lpMUf",
+      "artists": [{ "name": "Mirkelam", "id": "7o8wIiSHxNMlXrtR1OWPH0" }]
+    },
+    "analyse": {
+      "danceability": 0.788,
+      "energy": 0.655,
+      "key": 5,
+      "loudness": -12.452,
+      "mode": 0,
+      "speechiness": 0.112,
+      "acousticness": 0.0991,
+      "instrumentalness": 2.24e-6,
+      "liveness": 0.148,
+      "valence": 0.922,
+      "tempo": 97.065,
+      "type": "audio_features",
+      "id": "4aszqTKbVDgtoTq2coBT2t",
+      "uri": "spotify:track:4aszqTKbVDgtoTq2coBT2t",
+      "track_href": "https://api.spotify.com/v1/tracks/4aszqTKbVDgtoTq2coBT2t",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/4aszqTKbVDgtoTq2coBT2t",
+      "duration_ms": 271427,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Seviyorum Sevmiyorum",
+    "id": "3GeiSIP7JkXIoMIGrc0hv1",
+    "album": {
+      "id": "1xA2LlW123NU7SCIpkJBTC",
+      "name": "Nil Kıyısında",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273017bc0eb06f517909ccb32bd",
+      "uri": "spotify:album:1xA2LlW123NU7SCIpkJBTC",
+      "artists": [
+        { "name": "Nil Karaibrahimgil", "id": "1PpRPZXSS5ka7m5NW2TO7q" }
+      ]
+    },
+    "analyse": {
+      "danceability": 0.712,
+      "energy": 0.805,
+      "key": 7,
+      "loudness": -5.333,
+      "mode": 1,
+      "speechiness": 0.0913,
+      "acousticness": 0.15,
+      "instrumentalness": 4.6e-6,
+      "liveness": 0.254,
+      "valence": 0.589,
+      "tempo": 130.014,
+      "type": "audio_features",
+      "id": "3GeiSIP7JkXIoMIGrc0hv1",
+      "uri": "spotify:track:3GeiSIP7JkXIoMIGrc0hv1",
+      "track_href": "https://api.spotify.com/v1/tracks/3GeiSIP7JkXIoMIGrc0hv1",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/3GeiSIP7JkXIoMIGrc0hv1",
+      "duration_ms": 218800,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Dağları Deldim",
+    "id": "17wgsCCy5uZ5qs9S6bfHDJ",
+    "album": {
+      "id": "0kTDnC9lAR3NG5Aa85M6g4",
+      "name": "Tek Başıma",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b3860c18e12fccb77eabb9ab",
+      "uri": "spotify:album:0kTDnC9lAR3NG5Aa85M6g4",
+      "artists": [
+        { "name": "Özlem Tekin", "id": "1Xwze1G0zfRnxqBDfmWVVf" }
+      ]
+    },
+    "analyse": {
+      "danceability": 0.748,
+      "energy": 0.763,
+      "key": 0,
+      "loudness": -7.956,
+      "mode": 1,
+      "speechiness": 0.251,
+      "acousticness": 0.0481,
+      "instrumentalness": 0,
+      "liveness": 0.1,
+      "valence": 0.649,
+      "tempo": 159.933,
+      "type": "audio_features",
+      "id": "17wgsCCy5uZ5qs9S6bfHDJ",
+      "uri": "spotify:track:17wgsCCy5uZ5qs9S6bfHDJ",
+      "track_href": "https://api.spotify.com/v1/tracks/17wgsCCy5uZ5qs9S6bfHDJ",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/17wgsCCy5uZ5qs9S6bfHDJ",
+      "duration_ms": 181487,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Kumsalda",
+    "id": "44P48IXl8neXU8K3YAKabd",
+    "album": {
+      "id": "1phjztIsbUr26BqjYWh2QO",
+      "name": "Turuncu",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c3a1d2efa9ea96c08e2f820d",
+      "uri": "spotify:album:1phjztIsbUr26BqjYWh2QO",
+      "artists": [{ "name": "Sertab Erener", "id": "4W31XN2JH8mC54NkHdh04s" }]
+    },
+    "analyse": {
+      "danceability": 0.783,
+      "energy": 0.889,
+      "key": 5,
+      "loudness": -5.33,
+      "mode": 1,
+      "speechiness": 0.05,
+      "acousticness": 0.0732,
+      "instrumentalness": 0.00212,
+      "liveness": 0.0297,
+      "valence": 0.95,
+      "tempo": 117.02,
+      "type": "audio_features",
+      "id": "44P48IXl8neXU8K3YAKabd",
+      "uri": "spotify:track:44P48IXl8neXU8K3YAKabd",
+      "track_href": "https://api.spotify.com/v1/tracks/44P48IXl8neXU8K3YAKabd",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/44P48IXl8neXU8K3YAKabd",
+      "duration_ms": 226400,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Zor Kadın",
+    "id": "792QVjxxjKC1rgEwHI2G2d",
+    "album": {
+      "id": "4hzE9JQT3m5nkgE7mIeOzl",
+      "name": "Sertab Erener",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27323970d1f6d8cbdeeb3ecf67a",
+      "uri": "spotify:album:4hzE9JQT3m5nkgE7mIeOzl",
+      "artists": [{ "name": "Sertab Erener", "id": "4W31XN2JH8mC54NkHdh04s" }]
+    },
+    "analyse": {
+      "danceability": 0.702,
+      "energy": 0.531,
+      "key": 2,
+      "loudness": -8.167,
+      "mode": 0,
+      "speechiness": 0.0486,
+      "acousticness": 0.362,
+      "instrumentalness": 0,
+      "liveness": 0.1,
+      "valence": 0.761,
+      "tempo": 92.976,
+      "type": "audio_features",
+      "id": "792QVjxxjKC1rgEwHI2G2d",
+      "uri": "spotify:track:792QVjxxjKC1rgEwHI2G2d",
+      "track_href": "https://api.spotify.com/v1/tracks/792QVjxxjKC1rgEwHI2G2d",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/792QVjxxjKC1rgEwHI2G2d",
+      "duration_ms": 228827,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Aşk Sakızı",
+    "id": "3CDEGpKHri2sJCHUOcj7cY",
+    "album": {
+      "id": "7l7EWRsz1hNQ1ZB9X5pDgp",
+      "name": "Hepsi İki",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27374d3068c37b9a308a1388c53",
+      "uri": "spotify:album:7l7EWRsz1hNQ1ZB9X5pDgp",
+      "artists": [{ "name": "Hepsi", "id": "1kOoLMi8Z7nDeIa0bSfM3N" }]
+    },
+    "analyse": {
+      "danceability": 0.864,
+      "energy": 0.626,
+      "key": 9,
+      "loudness": -5.778,
+      "mode": 0,
+      "speechiness": 0.0769,
+      "acousticness": 0.131,
+      "instrumentalness": 1.19e-6,
+      "liveness": 0.047,
+      "valence": 0.837,
+      "tempo": 126.028,
+      "type": "audio_features",
+      "id": "3CDEGpKHri2sJCHUOcj7cY",
+      "uri": "spotify:track:3CDEGpKHri2sJCHUOcj7cY",
+      "track_href": "https://api.spotify.com/v1/tracks/3CDEGpKHri2sJCHUOcj7cY",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/3CDEGpKHri2sJCHUOcj7cY",
+      "duration_ms": 211000,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Elbette",
+    "id": "4AFyPFXE9eDMYu8fAY9jBK",
+    "album": {
+      "id": "3Au8IfjcKTRJVwGOWqqYgB",
+      "name": "Elbette",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734523e53dcd1a3818c526e1fd",
+      "uri": "spotify:album:3Au8IfjcKTRJVwGOWqqYgB",
+      "artists": [
+        { "name": "Candan Erçetin", "id": "51YBtWvwOP37hIGmnxf4yC" }
+      ]
+    },
+    "analyse": {
+      "danceability": 0.654,
+      "energy": 0.562,
+      "key": 4,
+      "loudness": -5.384,
+      "mode": 0,
+      "speechiness": 0.0311,
+      "acousticness": 0.0529,
+      "instrumentalness": 0,
+      "liveness": 0.149,
+      "valence": 0.646,
+      "tempo": 130.198,
+      "type": "audio_features",
+      "id": "4AFyPFXE9eDMYu8fAY9jBK",
+      "uri": "spotify:track:4AFyPFXE9eDMYu8fAY9jBK",
+      "track_href": "https://api.spotify.com/v1/tracks/4AFyPFXE9eDMYu8fAY9jBK",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/4AFyPFXE9eDMYu8fAY9jBK",
+      "duration_ms": 255747,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Yaz Yaz Yaz",
+    "id": "7Dm3nezEO4pDOLhe7KGiYx",
+    "album": {
+      "id": "28ufsg7KXqAYzhQ30cM1oc",
+      "name": "1990",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e0c0ee2c48da2b1c95c9dd4c",
+      "uri": "spotify:album:28ufsg7KXqAYzhQ30cM1oc",
+      "artists": [{ "name": "Ajda Pekkan", "id": "27XMnTLvCO7t3qGlQyTMkF" }]
+    },
+    "analyse": {
+      "danceability": 0.686,
+      "energy": 0.689,
+      "key": 6,
+      "loudness": -10.901,
+      "mode": 0,
+      "speechiness": 0.0309,
+      "acousticness": 0.157,
+      "instrumentalness": 0,
+      "liveness": 0.17,
+      "valence": 0.952,
+      "tempo": 150.342,
+      "type": "audio_features",
+      "id": "7Dm3nezEO4pDOLhe7KGiYx",
+      "uri": "spotify:track:7Dm3nezEO4pDOLhe7KGiYx",
+      "track_href": "https://api.spotify.com/v1/tracks/7Dm3nezEO4pDOLhe7KGiYx",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/7Dm3nezEO4pDOLhe7KGiYx",
+      "duration_ms": 252773,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Ateşle Barut",
+    "id": "15rwTcCp7TXLEHJOpvrGDw",
+    "album": {
+      "id": "47GwKBh3kkwAjCcPkId2c2",
+      "name": "Sakin Ol",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735619493836748e51a9ae9167",
+      "uri": "spotify:album:47GwKBh3kkwAjCcPkId2c2",
+      "artists": [{ "name": "Sertab Erener", "id": "4W31XN2JH8mC54NkHdh04s" }]
+    },
+    "analyse": {
+      "danceability": 0.822,
+      "energy": 0.593,
+      "key": 0,
+      "loudness": -13.146,
+      "mode": 0,
+      "speechiness": 0.0506,
+      "acousticness": 0.213,
+      "instrumentalness": 2.9e-5,
+      "liveness": 0.156,
+      "valence": 0.957,
+      "tempo": 118.093,
+      "type": "audio_features",
+      "id": "15rwTcCp7TXLEHJOpvrGDw",
+      "uri": "spotify:track:15rwTcCp7TXLEHJOpvrGDw",
+      "track_href": "https://api.spotify.com/v1/tracks/15rwTcCp7TXLEHJOpvrGDw",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/15rwTcCp7TXLEHJOpvrGDw",
+      "duration_ms": 257867,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Bir Efsane",
+    "id": "2e9sBWWjkIeLgG03MAoY1k",
+    "album": {
+      "id": "7w1BRGqxHUYkp0IFIrpg8p",
+      "name": "Bir Efsane",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a7698eabc673e6e553ac28ff",
+      "uri": "spotify:album:7w1BRGqxHUYkp0IFIrpg8p",
+      "artists": [{ "name": "Hakan Peker", "id": "7x1sEYcPJvLBwweGlIcapC" }]
+    },
+    "analyse": {
+      "danceability": 0.677,
+      "energy": 0.405,
+      "key": 7,
+      "loudness": -13.375,
+      "mode": 1,
+      "speechiness": 0.0433,
+      "acousticness": 0.687,
+      "instrumentalness": 0,
+      "liveness": 0.359,
+      "valence": 0.805,
+      "tempo": 116.467,
+      "type": "audio_features",
+      "id": "2e9sBWWjkIeLgG03MAoY1k",
+      "uri": "spotify:track:2e9sBWWjkIeLgG03MAoY1k",
+      "track_href": "https://api.spotify.com/v1/tracks/2e9sBWWjkIeLgG03MAoY1k",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/2e9sBWWjkIeLgG03MAoY1k",
+      "duration_ms": 246600,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Bambaşka Biri",
+    "id": "1IVarDBONtKyRmGwyEDjxu",
+    "album": {
+      "id": "6LG7NzIPsLf8wHpYrOftTh",
+      "name": "The Best of Ajda",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27358f56b0881afac1122cbe6d6",
+      "uri": "spotify:album:6LG7NzIPsLf8wHpYrOftTh",
+      "artists": [{ "name": "Ajda Pekkan", "id": "27XMnTLvCO7t3qGlQyTMkF" }]
+    },
+    "analyse": {
+      "danceability": 0.759,
+      "energy": 0.863,
+      "key": 0,
+      "loudness": -8.89,
+      "mode": 1,
+      "speechiness": 0.0574,
+      "acousticness": 0.0441,
+      "instrumentalness": 2.88e-6,
+      "liveness": 0.289,
+      "valence": 0.808,
+      "tempo": 120.016,
+      "type": "audio_features",
+      "id": "1IVarDBONtKyRmGwyEDjxu",
+      "uri": "spotify:track:1IVarDBONtKyRmGwyEDjxu",
+      "track_href": "https://api.spotify.com/v1/tracks/1IVarDBONtKyRmGwyEDjxu",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/1IVarDBONtKyRmGwyEDjxu",
+      "duration_ms": 323693,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Birtanem - Night Club Mix",
+    "id": "7tbD2Rl5Rxs7836NFZBQxM",
+    "album": {
+      "id": "07yiI9ScrZV7DXiObRz6Sp",
+      "name": "Divane",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d6652ff2755bedbda0914b35",
+      "uri": "spotify:album:07yiI9ScrZV7DXiObRz6Sp",
+      "artists": [{ "name": "Yaşar", "id": "50AOA3aPd6tc928KEYaljF" }]
+    },
+    "analyse": {
+      "danceability": 0.759,
+      "energy": 0.884,
+      "key": 9,
+      "loudness": -6.045,
+      "mode": 0,
+      "speechiness": 0.0622,
+      "acousticness": 0.264,
+      "instrumentalness": 0,
+      "liveness": 0.277,
+      "valence": 0.728,
+      "tempo": 107.044,
+      "type": "audio_features",
+      "id": "7tbD2Rl5Rxs7836NFZBQxM",
+      "uri": "spotify:track:7tbD2Rl5Rxs7836NFZBQxM",
+      "track_href": "https://api.spotify.com/v1/tracks/7tbD2Rl5Rxs7836NFZBQxM",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/7tbD2Rl5Rxs7836NFZBQxM",
+      "duration_ms": 202120,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Ölürüm Sana",
+    "id": "6nAgxB5x7vlGVVIoWpCwaM",
+    "album": {
+      "id": "6ebdbUXZn5AURKeRNXqiay",
+      "name": "Ölürüm Sana",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d0cc776df48f41116f43d449",
+      "uri": "spotify:album:6ebdbUXZn5AURKeRNXqiay",
+      "artists": [{ "name": "Tarkan", "id": "2yMN0IP20GOaN6q0p0zL5k" }]
+    },
+    "analyse": {
+      "danceability": 0.753,
+      "energy": 0.926,
+      "key": 9,
+      "loudness": -8.485,
+      "mode": 1,
+      "speechiness": 0.103,
+      "acousticness": 0.00718,
+      "instrumentalness": 2.28e-6,
+      "liveness": 0.0407,
+      "valence": 0.79,
+      "tempo": 92.015,
+      "type": "audio_features",
+      "id": "6nAgxB5x7vlGVVIoWpCwaM",
+      "uri": "spotify:track:6nAgxB5x7vlGVVIoWpCwaM",
+      "track_href": "https://api.spotify.com/v1/tracks/6nAgxB5x7vlGVVIoWpCwaM",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/6nAgxB5x7vlGVVIoWpCwaM",
+      "duration_ms": 246457,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Yakar Geçerim",
+    "id": "41EfGbF3T66mbR67xvNYvm",
+    "album": {
+      "id": "19VliE7nSD0VOj5ibEVlbZ",
+      "name": "Farkın Bu",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735dda6235a1528aefc462adaf",
+      "uri": "spotify:album:19VliE7nSD0VOj5ibEVlbZ",
+      "artists": [{ "name": "Ajda Pekkan", "id": "27XMnTLvCO7t3qGlQyTMkF" }]
+    },
+    "analyse": {
+      "danceability": 0.81,
+      "energy": 0.821,
+      "key": 10,
+      "loudness": -5.211,
+      "mode": 0,
+      "speechiness": 0.0627,
+      "acousticness": 0.0974,
+      "instrumentalness": 0,
+      "liveness": 0.0588,
+      "valence": 0.705,
+      "tempo": 114.032,
+      "type": "audio_features",
+      "id": "41EfGbF3T66mbR67xvNYvm",
+      "uri": "spotify:track:41EfGbF3T66mbR67xvNYvm",
+      "track_href": "https://api.spotify.com/v1/tracks/41EfGbF3T66mbR67xvNYvm",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/41EfGbF3T66mbR67xvNYvm",
+      "duration_ms": 264490,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Salla",
+    "id": "04Aq0PDoKzXkNvW0suggOt",
+    "album": {
+      "id": "3hgQ2xSCrBLEcVL0GZMwC1",
+      "name": "Atiye",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738172a189d8df0914934c05a7",
+      "uri": "spotify:album:3hgQ2xSCrBLEcVL0GZMwC1",
+      "artists": [{ "name": "Atiye", "id": "56g1u3Bu0S5072aksxyBei" }]
+    },
+    "analyse": {
+      "danceability": 0.861,
+      "energy": 0.74,
+      "key": 2,
+      "loudness": -4.202,
+      "mode": 0,
+      "speechiness": 0.0912,
+      "acousticness": 0.0491,
+      "instrumentalness": 0.015,
+      "liveness": 0.165,
+      "valence": 0.874,
+      "tempo": 120.032,
+      "type": "audio_features",
+      "id": "04Aq0PDoKzXkNvW0suggOt",
+      "uri": "spotify:track:04Aq0PDoKzXkNvW0suggOt",
+      "track_href": "https://api.spotify.com/v1/tracks/04Aq0PDoKzXkNvW0suggOt",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/04Aq0PDoKzXkNvW0suggOt",
+      "duration_ms": 211893,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Sana Neler Edeceğim",
+    "id": "4ViJpCfojsF6yncsDtXGFW",
+    "album": {
+      "id": "76l5i9CIUdmkDUkJ15gDJp",
+      "name": "Sana Neler Edeceğim",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273525ec2d24acaf53a27c3d5c0",
+      "uri": "spotify:album:76l5i9CIUdmkDUkJ15gDJp",
+      "artists": [{ "name": "Ajda Pekkan", "id": "27XMnTLvCO7t3qGlQyTMkF" }]
+    },
+    "analyse": {
+      "danceability": 0.624,
+      "energy": 0.617,
+      "key": 9,
+      "loudness": -7.789,
+      "mode": 1,
+      "speechiness": 0.0576,
+      "acousticness": 0.698,
+      "instrumentalness": 0,
+      "liveness": 0.376,
+      "valence": 0.74,
+      "tempo": 134.628,
+      "type": "audio_features",
+      "id": "4ViJpCfojsF6yncsDtXGFW",
+      "uri": "spotify:track:4ViJpCfojsF6yncsDtXGFW",
+      "track_href": "https://api.spotify.com/v1/tracks/4ViJpCfojsF6yncsDtXGFW",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/4ViJpCfojsF6yncsDtXGFW",
+      "duration_ms": 185440,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Acemi Balık",
+    "id": "2OFx8cmlW8JlGakuLnjMmd",
+    "album": {
+      "id": "42krftpZMlO7xlpASDvrEd",
+      "name": "Nâlân",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d91812f889d735cd24ed3d23",
+      "uri": "spotify:album:42krftpZMlO7xlpASDvrEd",
+      "artists": [{ "name": "Nalan", "id": "2ro4mTRj9qAtITiacU8bJg" }]
+    },
+    "analyse": {
+      "danceability": 0.863,
+      "energy": 0.796,
+      "key": 7,
+      "loudness": -5.564,
+      "mode": 0,
+      "speechiness": 0.0828,
+      "acousticness": 0.0976,
+      "instrumentalness": 0,
+      "liveness": 0.0525,
+      "valence": 0.93,
+      "tempo": 114.998,
+      "type": "audio_features",
+      "id": "2OFx8cmlW8JlGakuLnjMmd",
+      "uri": "spotify:track:2OFx8cmlW8JlGakuLnjMmd",
+      "track_href": "https://api.spotify.com/v1/tracks/2OFx8cmlW8JlGakuLnjMmd",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/2OFx8cmlW8JlGakuLnjMmd",
+      "duration_ms": 282493,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Hoş Gör Sen",
+    "id": "4x9GzqK1TMEdVk1VtIiMbW",
+    "album": {
+      "id": "6LG7NzIPsLf8wHpYrOftTh",
+      "name": "The Best of Ajda",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27358f56b0881afac1122cbe6d6",
+      "uri": "spotify:album:6LG7NzIPsLf8wHpYrOftTh",
+      "artists": [{ "name": "Ajda Pekkan", "id": "27XMnTLvCO7t3qGlQyTMkF" }]
+    },
+    "analyse": {
+      "danceability": 0.756,
+      "energy": 0.832,
+      "key": 8,
+      "loudness": -10.559,
+      "mode": 1,
+      "speechiness": 0.101,
+      "acousticness": 0.219,
+      "instrumentalness": 1.24e-6,
+      "liveness": 0.0969,
+      "valence": 0.875,
+      "tempo": 99.978,
+      "type": "audio_features",
+      "id": "4x9GzqK1TMEdVk1VtIiMbW",
+      "uri": "spotify:track:4x9GzqK1TMEdVk1VtIiMbW",
+      "track_href": "https://api.spotify.com/v1/tracks/4x9GzqK1TMEdVk1VtIiMbW",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/4x9GzqK1TMEdVk1VtIiMbW",
+      "duration_ms": 204547,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Kandırdım",
+    "id": "0Q2r3YxZghingZAXFZXkCs",
+    "album": {
+      "id": "6WCCOKwYg7RfZNC8T8xGap",
+      "name": "3",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737ec1f5aef9eb0d4b63343250",
+      "uri": "spotify:album:6WCCOKwYg7RfZNC8T8xGap",
+      "artists": [
+        { "name": "Kenan Doğulu", "id": "2RQ8NtUmg5y6tfbvCwX8jI" }
+      ]
+    },
+    "analyse": {
+      "danceability": 0.797,
+      "energy": 0.601,
+      "key": 6,
+      "loudness": -11.814,
+      "mode": 0,
+      "speechiness": 0.0644,
+      "acousticness": 0.114,
+      "instrumentalness": 3.65e-5,
+      "liveness": 0.0775,
+      "valence": 0.574,
+      "tempo": 96.003,
+      "type": "audio_features",
+      "id": "0Q2r3YxZghingZAXFZXkCs",
+      "uri": "spotify:track:0Q2r3YxZghingZAXFZXkCs",
+      "track_href": "https://api.spotify.com/v1/tracks/0Q2r3YxZghingZAXFZXkCs",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/0Q2r3YxZghingZAXFZXkCs",
+      "duration_ms": 263840,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Haykıracak Nefesim Kalmasa Bile",
+    "id": "3GOWPLgETdgtkv243efOnJ",
+    "album": {
+      "id": "6LG7NzIPsLf8wHpYrOftTh",
+      "name": "The Best of Ajda",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27358f56b0881afac1122cbe6d6",
+      "uri": "spotify:album:6LG7NzIPsLf8wHpYrOftTh",
+      "artists": [{ "name": "Ajda Pekkan", "id": "27XMnTLvCO7t3qGlQyTMkF" }]
+    },
+    "analyse": {
+      "danceability": 0.728,
+      "energy": 0.576,
+      "key": 9,
+      "loudness": -9.671,
+      "mode": 1,
+      "speechiness": 0.129,
+      "acousticness": 0.0823,
+      "instrumentalness": 0,
+      "liveness": 0.102,
+      "valence": 0.383,
+      "tempo": 114.96,
+      "type": "audio_features",
+      "id": "3GOWPLgETdgtkv243efOnJ",
+      "uri": "spotify:track:3GOWPLgETdgtkv243efOnJ",
+      "track_href": "https://api.spotify.com/v1/tracks/3GOWPLgETdgtkv243efOnJ",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/3GOWPLgETdgtkv243efOnJ",
+      "duration_ms": 197547,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Ah Geceler",
+    "id": "0aLQrzNP3mkcIRr5nVvxTz",
+    "album": {
+      "id": "4aA1mXsrTxzTnlcyS3WwcQ",
+      "name": "Ah Geceler",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27382e4752934d6119910af813d",
+      "uri": "spotify:album:4aA1mXsrTxzTnlcyS3WwcQ",
+      "artists": [{ "name": "Seda Sayan", "id": "5hKNaXEXIxQ3dmZR7FoRr8" }]
+    },
+    "analyse": {
+      "danceability": 0.703,
+      "energy": 0.696,
+      "key": 5,
+      "loudness": -12.271,
+      "mode": 1,
+      "speechiness": 0.0819,
+      "acousticness": 0.151,
+      "instrumentalness": 0,
+      "liveness": 0.149,
+      "valence": 0.734,
+      "tempo": 138.326,
+      "type": "audio_features",
+      "id": "0aLQrzNP3mkcIRr5nVvxTz",
+      "uri": "spotify:track:0aLQrzNP3mkcIRr5nVvxTz",
+      "track_href": "https://api.spotify.com/v1/tracks/0aLQrzNP3mkcIRr5nVvxTz",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/0aLQrzNP3mkcIRr5nVvxTz",
+      "duration_ms": 249417,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Sarışın",
+    "id": "73G6qD9mGumhJtyGcmFQo8",
+    "album": {
+      "id": "2omQcakXW44zpMNgLn1aLT",
+      "name": "Sezen Aksu '88",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736322b053d469c7b142f2b14c",
+      "uri": "spotify:album:2omQcakXW44zpMNgLn1aLT",
+      "artists": [{ "name": "Sezen Aksu", "id": "64d1rUxfizSAOE9UbMnUZd" }]
+    },
+    "analyse": {
+      "danceability": 0.744,
+      "energy": 0.774,
+      "key": 11,
+      "loudness": -6.985,
+      "mode": 0,
+      "speechiness": 0.0565,
+      "acousticness": 0.208,
+      "instrumentalness": 7.27e-5,
+      "liveness": 0.164,
+      "valence": 0.694,
+      "tempo": 91.831,
+      "type": "audio_features",
+      "id": "73G6qD9mGumhJtyGcmFQo8",
+      "uri": "spotify:track:73G6qD9mGumhJtyGcmFQo8",
+      "track_href": "https://api.spotify.com/v1/tracks/73G6qD9mGumhJtyGcmFQo8",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/73G6qD9mGumhJtyGcmFQo8",
+      "duration_ms": 272853,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Organize İşler Bunlar",
+    "id": "3fPdnc9Ipk8JJ7yh88ucnx",
+    "album": {
+      "id": "6rO6n6JZaKIE2VcjtmzBx6",
+      "name": "Tek Taşımı Kendim Aldım",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f22f0a3ab76b923df54b73b0",
+      "uri": "spotify:album:6rO6n6JZaKIE2VcjtmzBx6",
+      "artists": [
+        { "name": "Nil Karaibrahimgil", "id": "1PpRPZXSS5ka7m5NW2TO7q" }
+      ]
+    },
+    "analyse": {
+      "danceability": 0.643,
+      "energy": 0.672,
+      "key": 9,
+      "loudness": -6.467,
+      "mode": 0,
+      "speechiness": 0.0403,
+      "acousticness": 0.197,
+      "instrumentalness": 0,
+      "liveness": 0.103,
+      "valence": 0.479,
+      "tempo": 145.052,
+      "type": "audio_features",
+      "id": "3fPdnc9Ipk8JJ7yh88ucnx",
+      "uri": "spotify:track:3fPdnc9Ipk8JJ7yh88ucnx",
+      "track_href": "https://api.spotify.com/v1/tracks/3fPdnc9Ipk8JJ7yh88ucnx",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/3fPdnc9Ipk8JJ7yh88ucnx",
+      "duration_ms": 191587,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Cennet (Ufuk Akyıldız Remix)",
+    "id": "23IUVkPTELpsCCHfLVSVmM",
+    "album": {
+      "id": "5Fv2uGiLzzOk7aCI63tv94",
+      "name": "Reina, Vol. 6",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273866d8a45934fdafbe1d39ad8",
+      "uri": "spotify:album:5Fv2uGiLzzOk7aCI63tv94",
+      "artists": [{ "name": "Various Artists", "id": "0LyfQWJT6nXafLPZqxe9Of" }]
+    },
+    "analyse": {
+      "danceability": 0.846,
+      "energy": 0.819,
+      "key": 11,
+      "loudness": -5.87,
+      "mode": 0,
+      "speechiness": 0.0451,
+      "acousticness": 0.0249,
+      "instrumentalness": 0.000216,
+      "liveness": 0.109,
+      "valence": 0.688,
+      "tempo": 129.999,
+      "type": "audio_features",
+      "id": "23IUVkPTELpsCCHfLVSVmM",
+      "uri": "spotify:track:23IUVkPTELpsCCHfLVSVmM",
+      "track_href": "https://api.spotify.com/v1/tracks/23IUVkPTELpsCCHfLVSVmM",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/23IUVkPTELpsCCHfLVSVmM",
+      "duration_ms": 338308,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "İltimas",
+    "id": "6kbSFButlwA6kJ53FwEJIA",
+    "album": {
+      "id": "3lIViclV7G1q2jiap8cRSP",
+      "name": "İltimas",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d58d7bd521e7234982226e11",
+      "uri": "spotify:album:3lIViclV7G1q2jiap8cRSP",
+      "artists": [
+        { "name": "Gülşen", "id": "1F2v33FQTavJyaD7ZsyhdA" },
+        { "name": "Murat Boz", "id": "53oeVgECSa18dkHBQ9X6Eh" }
+      ]
+    },
+    "analyse": {
+      "danceability": 0.631,
+      "energy": 0.934,
+      "key": 10,
+      "loudness": -4.658,
+      "mode": 0,
+      "speechiness": 0.0501,
+      "acousticness": 0.0133,
+      "instrumentalness": 0.000132,
+      "liveness": 0.0857,
+      "valence": 0.611,
+      "tempo": 128.009,
+      "type": "audio_features",
+      "id": "6kbSFButlwA6kJ53FwEJIA",
+      "uri": "spotify:track:6kbSFButlwA6kJ53FwEJIA",
+      "track_href": "https://api.spotify.com/v1/tracks/6kbSFButlwA6kJ53FwEJIA",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/6kbSFButlwA6kJ53FwEJIA",
+      "duration_ms": 250312,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Çalkala",
+    "id": "6WdqVs3Ud7WpwPWlqfz4ay",
+    "album": {
+      "id": "7lR3JaPrqaIz4gKQ5AGJYY",
+      "name": "Pırlanta",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734087953369b53ddd1aa402b5",
+      "uri": "spotify:album:7lR3JaPrqaIz4gKQ5AGJYY",
+      "artists": [
+        { "name": "Demet Akalın", "id": "1U449OOb70EZlElNjLMwCM" }
+      ]
+    },
+    "analyse": {
+      "danceability": 0.815,
+      "energy": 0.769,
+      "key": 1,
+      "loudness": -8.839,
+      "mode": 1,
+      "speechiness": 0.116,
+      "acousticness": 0.00254,
+      "instrumentalness": 0.00104,
+      "liveness": 0.0895,
+      "valence": 0.613,
+      "tempo": 101.036,
+      "type": "audio_features",
+      "id": "6WdqVs3Ud7WpwPWlqfz4ay",
+      "uri": "spotify:track:6WdqVs3Ud7WpwPWlqfz4ay",
+      "track_href": "https://api.spotify.com/v1/tracks/6WdqVs3Ud7WpwPWlqfz4ay",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/6WdqVs3Ud7WpwPWlqfz4ay",
+      "duration_ms": 193265,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Düşman mısın Aşık mı?",
+    "id": "2Vqc75AMoWCI1OhJmZpx8d",
+    "album": {
+      "id": "347VTk0gUrOxvQb2IRPkOs",
+      "name": "Düşman mısın Aşık mı?",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733a795186b506476ce52d3f1f",
+      "uri": "spotify:album:347VTk0gUrOxvQb2IRPkOs",
+      "artists": [{ "name": "Ajda Pekkan", "id": "27XMnTLvCO7t3qGlQyTMkF" }]
+    },
+    "analyse": {
+      "danceability": 0.777,
+      "energy": 0.859,
+      "key": 1,
+      "loudness": -5.116,
+      "mode": 0,
+      "speechiness": 0.117,
+      "acousticness": 0.0738,
+      "instrumentalness": 0,
+      "liveness": 0.395,
+      "valence": 0.767,
+      "tempo": 129.976,
+      "type": "audio_features",
+      "id": "2Vqc75AMoWCI1OhJmZpx8d",
+      "uri": "spotify:track:2Vqc75AMoWCI1OhJmZpx8d",
+      "track_href": "https://api.spotify.com/v1/tracks/2Vqc75AMoWCI1OhJmZpx8d",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Vqc75AMoWCI1OhJmZpx8d",
+      "duration_ms": 222527,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Ara Sıcak",
+    "id": "7fLhNGZjW48Cw1aXkIoZsF",
+    "album": {
+      "id": "61YNFfO5FEBnyBlFqDDyZG",
+      "name": "Ara Sıcak (Remixes)",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27325e9761d379362eb0d0dfb10",
+      "uri": "spotify:album:61YNFfO5FEBnyBlFqDDyZG",
+      "artists": [{ "name": "Ajda Pekkan", "id": "27XMnTLvCO7t3qGlQyTMkF" }]
+    },
+    "analyse": {
+      "danceability": 0.727,
+      "energy": 0.944,
+      "key": 7,
+      "loudness": -3.039,
+      "mode": 0,
+      "speechiness": 0.173,
+      "acousticness": 0.0113,
+      "instrumentalness": 0,
+      "liveness": 0.288,
+      "valence": 0.309,
+      "tempo": 130.063,
+      "type": "audio_features",
+      "id": "7fLhNGZjW48Cw1aXkIoZsF",
+      "uri": "spotify:track:7fLhNGZjW48Cw1aXkIoZsF",
+      "track_href": "https://api.spotify.com/v1/tracks/7fLhNGZjW48Cw1aXkIoZsF",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/7fLhNGZjW48Cw1aXkIoZsF",
+      "duration_ms": 226154,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Aşka Yürek Gerek",
+    "id": "1aFuXmfz6bYOvUDOLZiqys",
+    "album": {
+      "id": "5VTpFZCxUfBiXSvdqw4Azp",
+      "name": "Aşka Yürek Gerek",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27332ff29daf79af0f9bac93b8d",
+      "uri": "spotify:album:5VTpFZCxUfBiXSvdqw4Azp",
+      "artists": [{ "name": "Mustafa Sandal", "id": "0mkH5jj3goQ51JtPKVodTo" }]
+    },
+    "analyse": {
+      "danceability": 0.721,
+      "energy": 0.9,
+      "key": 3,
+      "loudness": -9.195,
+      "mode": 0,
+      "speechiness": 0.0322,
+      "acousticness": 0.0135,
+      "instrumentalness": 0.000204,
+      "liveness": 0.307,
+      "valence": 0.736,
+      "tempo": 135.041,
+      "type": "audio_features",
+      "id": "1aFuXmfz6bYOvUDOLZiqys",
+      "uri": "spotify:track:1aFuXmfz6bYOvUDOLZiqys",
+      "track_href": "https://api.spotify.com/v1/tracks/1aFuXmfz6bYOvUDOLZiqys",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/1aFuXmfz6bYOvUDOLZiqys",
+      "duration_ms": 346040,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Öp",
+    "id": "2o3PN1904YpoQYjAHuLK2n",
+    "album": {
+      "id": "07WMV8iIHfOabKs2ztS8m3",
+      "name": "Adımı Kalbine Yaz",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273212952d062cc8d64031ff62a",
+      "uri": "spotify:album:07WMV8iIHfOabKs2ztS8m3",
+      "artists": [{ "name": "Tarkan", "id": "2yMN0IP20GOaN6q0p0zL5k" }]
+    },
+    "analyse": {
+      "danceability": 0.783,
+      "energy": 0.749,
+      "key": 1,
+      "loudness": -4.348,
+      "mode": 1,
+      "speechiness": 0.114,
+      "acousticness": 0.0393,
+      "instrumentalness": 0,
+      "liveness": 0.0523,
+      "valence": 0.801,
+      "tempo": 129.98,
+      "type": "audio_features",
+      "id": "2o3PN1904YpoQYjAHuLK2n",
+      "uri": "spotify:track:2o3PN1904YpoQYjAHuLK2n",
+      "track_href": "https://api.spotify.com/v1/tracks/2o3PN1904YpoQYjAHuLK2n",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/2o3PN1904YpoQYjAHuLK2n",
+      "duration_ms": 227187,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Çak Bir Selam - Gurcell Style Mix",
+    "id": "6AyPKvrAGTSsBUyM9VOHwj",
+    "album": {
+      "id": "5u3uF7jN9RPQlpbCiDJPe8",
+      "name": "Çak Bir Selam",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bbf7abf3a33bf4a7f81c27a8",
+      "uri": "spotify:album:5u3uF7jN9RPQlpbCiDJPe8",
+      "artists": [{ "name": "Ayse Hatun Onal", "id": "25yeRs08qswXKKtq0HYTMS" }]
+    },
+    "analyse": {
+      "danceability": 0.66,
+      "energy": 0.859,
+      "key": 1,
+      "loudness": -3.284,
+      "mode": 0,
+      "speechiness": 0.139,
+      "acousticness": 0.144,
+      "instrumentalness": 0,
+      "liveness": 0.18,
+      "valence": 0.853,
+      "tempo": 135.071,
+      "type": "audio_features",
+      "id": "6AyPKvrAGTSsBUyM9VOHwj",
+      "uri": "spotify:track:6AyPKvrAGTSsBUyM9VOHwj",
+      "track_href": "https://api.spotify.com/v1/tracks/6AyPKvrAGTSsBUyM9VOHwj",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/6AyPKvrAGTSsBUyM9VOHwj",
+      "duration_ms": 210600,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Arada Sırada - Dance Remix",
+    "id": "3Va3fsxOZ4NEewyzu3wiFJ",
+    "album": {
+      "id": "19VliE7nSD0VOj5ibEVlbZ",
+      "name": "Farkın Bu",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735dda6235a1528aefc462adaf",
+      "uri": "spotify:album:19VliE7nSD0VOj5ibEVlbZ",
+      "artists": [{ "name": "Ajda Pekkan", "id": "27XMnTLvCO7t3qGlQyTMkF" }]
+    },
+    "analyse": {
+      "danceability": 0.62,
+      "energy": 0.907,
+      "key": 0,
+      "loudness": -4.65,
+      "mode": 1,
+      "speechiness": 0.0452,
+      "acousticness": 0.0781,
+      "instrumentalness": 1.7e-6,
+      "liveness": 0.141,
+      "valence": 0.587,
+      "tempo": 132.074,
+      "type": "audio_features",
+      "id": "3Va3fsxOZ4NEewyzu3wiFJ",
+      "uri": "spotify:track:3Va3fsxOZ4NEewyzu3wiFJ",
+      "track_href": "https://api.spotify.com/v1/tracks/3Va3fsxOZ4NEewyzu3wiFJ",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Va3fsxOZ4NEewyzu3wiFJ",
+      "duration_ms": 272640,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Seni Yerler",
+    "id": "0seHKl9cX6sRrgO5Ql28b4",
+    "album": {
+      "id": "3pCSt4dgNRTTDVI1XO6nqZ",
+      "name": "Düş Bahçeleri",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273831914472b317640140ee1cf",
+      "uri": "spotify:album:3pCSt4dgNRTTDVI1XO6nqZ",
+      "artists": [{ "name": "Sezen Aksu", "id": "64d1rUxfizSAOE9UbMnUZd" }]
+    },
+    "analyse": {
+      "danceability": 0.752,
+      "energy": 0.813,
+      "key": 8,
+      "loudness": -6.787,
+      "mode": 0,
+      "speechiness": 0.103,
+      "acousticness": 0.0315,
+      "instrumentalness": 2.46e-6,
+      "liveness": 0.0858,
+      "valence": 0.761,
+      "tempo": 119.034,
+      "type": "audio_features",
+      "id": "0seHKl9cX6sRrgO5Ql28b4",
+      "uri": "spotify:track:0seHKl9cX6sRrgO5Ql28b4",
+      "track_href": "https://api.spotify.com/v1/tracks/0seHKl9cX6sRrgO5Ql28b4",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/0seHKl9cX6sRrgO5Ql28b4",
+      "duration_ms": 250307,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Rengarenk",
+    "id": "2DWAqQHoY7M9Lx3gQxVuYW",
+    "album": {
+      "id": "6yVVtcndqLw93x6N1KUiuY",
+      "name": "Rengârenk",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273881cbcc04fe1dccc90c80186",
+      "uri": "spotify:album:6yVVtcndqLw93x6N1KUiuY",
+      "artists": [{ "name": "Sertab Erener", "id": "4W31XN2JH8mC54NkHdh04s" }]
+    },
+    "analyse": {
+      "danceability": 0.845,
+      "energy": 0.863,
+      "key": 7,
+      "loudness": -2.375,
+      "mode": 1,
+      "speechiness": 0.0476,
+      "acousticness": 0.479,
+      "instrumentalness": 0,
+      "liveness": 0.134,
+      "valence": 0.679,
+      "tempo": 98.006,
+      "type": "audio_features",
+      "id": "2DWAqQHoY7M9Lx3gQxVuYW",
+      "uri": "spotify:track:2DWAqQHoY7M9Lx3gQxVuYW",
+      "track_href": "https://api.spotify.com/v1/tracks/2DWAqQHoY7M9Lx3gQxVuYW",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/2DWAqQHoY7M9Lx3gQxVuYW",
+      "duration_ms": 159948,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Battaniyem",
+    "id": "4stdb0KinO8xZRCeGErHoL",
+    "album": {
+      "id": "3ZNI6J9GWAhtf9p60EduSk",
+      "name": "Takım Oyunu",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273693c9e13d4d80dba35711e46",
+      "uri": "spotify:album:3ZNI6J9GWAhtf9p60EduSk",
+      "artists": [{ "name": "Multitap", "id": "1lewMbg4IoeBW024BuTviN" }]
+    },
+    "analyse": {
+      "danceability": 0.815,
+      "energy": 0.713,
+      "key": 4,
+      "loudness": -4.055,
+      "mode": 1,
+      "speechiness": 0.0297,
+      "acousticness": 0.117,
+      "instrumentalness": 3.78e-5,
+      "liveness": 0.202,
+      "valence": 0.44,
+      "tempo": 119.997,
+      "type": "audio_features",
+      "id": "4stdb0KinO8xZRCeGErHoL",
+      "uri": "spotify:track:4stdb0KinO8xZRCeGErHoL",
+      "track_href": "https://api.spotify.com/v1/tracks/4stdb0KinO8xZRCeGErHoL",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/4stdb0KinO8xZRCeGErHoL",
+      "duration_ms": 211253,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Can't Get You Out Of My Head",
+    "id": "4d3QSJTQFNbjXB38MakZXQ",
+    "album": {
+      "id": "5rzuwVwIWP7HyllawUWukm",
+      "name": "Can't Get You Out Of My Head",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d61b71a659d9065e4b1208f7",
+      "uri": "spotify:album:5rzuwVwIWP7HyllawUWukm",
+      "artists": [{ "name": "Kleene Bengels", "id": "4CqdBc2mUuo1Bvq7QswJKu" }]
+    },
+    "analyse": {
+      "danceability": 0.724,
+      "energy": 0.605,
+      "key": 0,
+      "loudness": -12.321,
+      "mode": 0,
+      "speechiness": 0.0304,
+      "acousticness": 0.0822,
+      "instrumentalness": 0.000213,
+      "liveness": 0.0607,
+      "valence": 0.783,
+      "tempo": 127.505,
+      "type": "audio_features",
+      "id": "4d3QSJTQFNbjXB38MakZXQ",
+      "uri": "spotify:track:4d3QSJTQFNbjXB38MakZXQ",
+      "track_href": "https://api.spotify.com/v1/tracks/4d3QSJTQFNbjXB38MakZXQ",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/4d3QSJTQFNbjXB38MakZXQ",
+      "duration_ms": 242256,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Sevmek Suçsa Suçluyum",
+    "id": "2PCLG4X21rCtq5xK9I2xP7",
+    "album": {
+      "id": "5KBCOmateG46mCQtKXSFte",
+      "name": "Sevmek Suçsa Suçluyum",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733f33c9eabd42e2f24f9f4c79",
+      "uri": "spotify:album:5KBCOmateG46mCQtKXSFte",
+      "artists": [
+        { "name": "Melike Şahin", "id": "16GyR4WfCnIT2XST4ZLl2B" }
+      ]
+    },
+    "analyse": {
+      "danceability": 0.754,
+      "energy": 0.45,
+      "key": 4,
+      "loudness": -9.268,
+      "mode": 0,
+      "speechiness": 0.0419,
+      "acousticness": 0.394,
+      "instrumentalness": 0,
+      "liveness": 0.326,
+      "valence": 0.624,
+      "tempo": 99.009,
+      "type": "audio_features",
+      "id": "2PCLG4X21rCtq5xK9I2xP7",
+      "uri": "spotify:track:2PCLG4X21rCtq5xK9I2xP7",
+      "track_href": "https://api.spotify.com/v1/tracks/2PCLG4X21rCtq5xK9I2xP7",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/2PCLG4X21rCtq5xK9I2xP7",
+      "duration_ms": 220250,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Hani Kimi Zaman",
+    "id": "5meDX0Dkz44z5b2i64S8Zm",
+    "album": {
+      "id": "1phjztIsbUr26BqjYWh2QO",
+      "name": "Turuncu",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c3a1d2efa9ea96c08e2f820d",
+      "uri": "spotify:album:1phjztIsbUr26BqjYWh2QO",
+      "artists": [{ "name": "Sertab Erener", "id": "4W31XN2JH8mC54NkHdh04s" }]
+    },
+    "analyse": {
+      "danceability": 0.741,
+      "energy": 0.786,
+      "key": 6,
+      "loudness": -6.568,
+      "mode": 0,
+      "speechiness": 0.0789,
+      "acousticness": 0.155,
+      "instrumentalness": 0,
+      "liveness": 0.417,
+      "valence": 0.643,
+      "tempo": 97.956,
+      "type": "audio_features",
+      "id": "5meDX0Dkz44z5b2i64S8Zm",
+      "uri": "spotify:track:5meDX0Dkz44z5b2i64S8Zm",
+      "track_href": "https://api.spotify.com/v1/tracks/5meDX0Dkz44z5b2i64S8Zm",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/5meDX0Dkz44z5b2i64S8Zm",
+      "duration_ms": 175120,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Bu Kız Beni Görmeli",
+    "id": "2wIRVoGfw9pStG3fMUi91G",
+    "album": {
+      "id": "6Xr91JboaHLLJPX2cilHit",
+      "name": "Suç Bende",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27313d2e51c99f18132f1caef35",
+      "uri": "spotify:album:6Xr91JboaHLLJPX2cilHit",
+      "artists": [{ "name": "Mustafa Sandal", "id": "0mkH5jj3goQ51JtPKVodTo" }]
+    },
+    "analyse": {
+      "danceability": 0.755,
+      "energy": 0.5,
+      "key": 9,
+      "loudness": -16.785,
+      "mode": 0,
+      "speechiness": 0.0569,
+      "acousticness": 0.00163,
+      "instrumentalness": 1.74e-5,
+      "liveness": 0.308,
+      "valence": 0.749,
+      "tempo": 122.909,
+      "type": "audio_features",
+      "id": "2wIRVoGfw9pStG3fMUi91G",
+      "uri": "spotify:track:2wIRVoGfw9pStG3fMUi91G",
+      "track_href": "https://api.spotify.com/v1/tracks/2wIRVoGfw9pStG3fMUi91G",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/2wIRVoGfw9pStG3fMUi91G",
+      "duration_ms": 220933,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "La Isla Bonita",
+    "id": "2Iib2MV3ECFJAourgP9dlY",
+    "album": {
+      "id": "43lok9zd7BW5CoYkXZs7S0",
+      "name": "Celebration (double disc version)",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738f9f218b386e6aeb27184307",
+      "uri": "spotify:album:43lok9zd7BW5CoYkXZs7S0",
+      "artists": [{ "name": "Madonna", "id": "6tbjWDEIzxoDsBA1FuhfPW" }]
+    },
+    "analyse": {
+      "danceability": 0.708,
+      "energy": 0.832,
+      "key": 1,
+      "loudness": -4.736,
+      "mode": 0,
+      "speechiness": 0.0362,
+      "acousticness": 0.392,
+      "instrumentalness": 1.33e-6,
+      "liveness": 0.0561,
+      "valence": 0.968,
+      "tempo": 99.953,
+      "type": "audio_features",
+      "id": "2Iib2MV3ECFJAourgP9dlY",
+      "uri": "spotify:track:2Iib2MV3ECFJAourgP9dlY",
+      "track_href": "https://api.spotify.com/v1/tracks/2Iib2MV3ECFJAourgP9dlY",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Iib2MV3ECFJAourgP9dlY",
+      "duration_ms": 242947,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Senorita",
+    "id": "0TK2YIli7K1leLovkQiNik",
+    "album": {
+      "id": "2ZaX1FdZCwchXl1QZiD4O4",
+      "name": "Senorita",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e6095c382c2853667c1623eb",
+      "uri": "spotify:album:2ZaX1FdZCwchXl1QZiD4O4",
+      "artists": [
+        { "name": "Shawn Mendes", "id": "7n2wHs1TKAczGzO7Dd2rGr" },
+        { "name": "Camila Cabello", "id": "4nDoRrQiYLoBzwC5BhVJzF" }
+      ]
+    },
+    "analyse": {
+      "danceability": 0.759,
+      "energy": 0.54,
+      "key": 9,
+      "loudness": -6.039,
+      "mode": 0,
+      "speechiness": 0.0287,
+      "acousticness": 0.037,
+      "instrumentalness": 0,
+      "liveness": 0.0945,
+      "valence": 0.75,
+      "tempo": 116.947,
+      "type": "audio_features",
+      "id": "0TK2YIli7K1leLovkQiNik",
+      "uri": "spotify:track:0TK2YIli7K1leLovkQiNik",
+      "track_href": "https://api.spotify.com/v1/tracks/0TK2YIli7K1leLovkQiNik",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/0TK2YIli7K1leLovkQiNik",
+      "duration_ms": 190960,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Gir Kanıma",
+    "id": "3YtuAPxcclrBCfBUZVcFrq",
+    "album": {
+      "id": "22nBIXK6zXi886UsEFU8lw",
+      "name": "Beni Affet",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733c694212af3f76fe5b75b69d",
+      "uri": "spotify:album:22nBIXK6zXi886UsEFU8lw",
+      "artists": [
+        { "name": "Harun Kolçak", "id": "65DHllTFchsixkxABusOcR" }
+      ]
+    },
+    "analyse": {
+      "danceability": 0.759,
+      "energy": 0.714,
+      "key": 10,
+      "loudness": -9.449,
+      "mode": 0,
+      "speechiness": 0.0564,
+      "acousticness": 0.00163,
+      "instrumentalness": 1.16e-5,
+      "liveness": 0.0173,
+      "valence": 0.492,
+      "tempo": 119.775,
+      "type": "audio_features",
+      "id": "3YtuAPxcclrBCfBUZVcFrq",
+      "uri": "spotify:track:3YtuAPxcclrBCfBUZVcFrq",
+      "track_href": "https://api.spotify.com/v1/tracks/3YtuAPxcclrBCfBUZVcFrq",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/3YtuAPxcclrBCfBUZVcFrq",
+      "duration_ms": 227000,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Killer Queen",
+    "id": "300YN8ebGB90nDuzgz0f3O",
+    "album": {
+      "id": "6i6folBtxKV28WX3msQ4FE",
+      "name": "Bohemian Rhapsody (The Original Soundtrack)",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e8b066f70c206551210d902b",
+      "uri": "spotify:album:6i6folBtxKV28WX3msQ4FE",
+      "artists": [{ "name": "Queen", "id": "1dfeR4HaWDbWqFHLkxsg1d" }]
+    },
+    "analyse": {
+      "danceability": 0.526,
+      "energy": 0.64,
+      "key": 10,
+      "loudness": -6.374,
+      "mode": 1,
+      "speechiness": 0.0472,
+      "acousticness": 0.365,
+      "instrumentalness": 1.3e-6,
+      "liveness": 0.0958,
+      "valence": 0.622,
+      "tempo": 117.132,
+      "type": "audio_features",
+      "id": "300YN8ebGB90nDuzgz0f3O",
+      "uri": "spotify:track:300YN8ebGB90nDuzgz0f3O",
+      "track_href": "https://api.spotify.com/v1/tracks/300YN8ebGB90nDuzgz0f3O",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/300YN8ebGB90nDuzgz0f3O",
+      "duration_ms": 179356,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "The Longest Time",
+    "id": "3YhcVZIWyakQSTUJD1YMt4",
+    "album": {
+      "id": "7r36rel1M4gyBavfcJP6Yz",
+      "name": "The Essential Billy Joel",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273649d4f282653ab8be56f447e",
+      "uri": "spotify:album:7r36rel1M4gyBavfcJP6Yz",
+      "artists": [{ "name": "Billy Joel", "id": "6zFYqv1mOsgBRQbae3JJ9e" }]
+    },
+    "analyse": {
+      "danceability": 0.507,
+      "energy": 0.327,
+      "key": 3,
+      "loudness": -9.574,
+      "mode": 1,
+      "speechiness": 0.0286,
+      "acousticness": 0.183,
+      "instrumentalness": 0,
+      "liveness": 0.11,
+      "valence": 0.627,
+      "tempo": 169.54,
+      "type": "audio_features",
+      "id": "3YhcVZIWyakQSTUJD1YMt4",
+      "uri": "spotify:track:3YhcVZIWyakQSTUJD1YMt4",
+      "track_href": "https://api.spotify.com/v1/tracks/3YhcVZIWyakQSTUJD1YMt4",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/3YhcVZIWyakQSTUJD1YMt4",
+      "duration_ms": 216640,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Çok Çok",
+    "id": "4UajeO5lnxguN9RNutaT5D",
+    "album": {
+      "id": "1ly64GuU1sWEhsv3mHrUa3",
+      "name": "An",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738f1d94c40b4c7aecfb8f56ce",
+      "uri": "spotify:album:1ly64GuU1sWEhsv3mHrUa3",
+      "artists": [{ "name": "Edis", "id": "1AM52XHXnWAEqnQwpxTLWm" }]
+    },
+    "analyse": {
+      "danceability": 0.758,
+      "energy": 0.748,
+      "key": 2,
+      "loudness": -5.666,
+      "mode": 0,
+      "speechiness": 0.0705,
+      "acousticness": 0.0283,
+      "instrumentalness": 0,
+      "liveness": 0.11,
+      "valence": 0.608,
+      "tempo": 97.986,
+      "type": "audio_features",
+      "id": "4UajeO5lnxguN9RNutaT5D",
+      "uri": "spotify:track:4UajeO5lnxguN9RNutaT5D",
+      "track_href": "https://api.spotify.com/v1/tracks/4UajeO5lnxguN9RNutaT5D",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/4UajeO5lnxguN9RNutaT5D",
+      "duration_ms": 201429,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Kaprislisin Sevgilim",
+    "id": "041vpMVqrDfFKLQXyMkhKT",
+    "album": {
+      "id": "6IMpjk4oYcCHPjfm72CcjI",
+      "name": "Mirkelam Joker",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273061ccf49086b0d8ae814ef34",
+      "uri": "spotify:album:6IMpjk4oYcCHPjfm72CcjI",
+      "artists": [{ "name": "Mirkelam", "id": "7o8wIiSHxNMlXrtR1OWPH0" }]
+    },
+    "analyse": {
+      "danceability": 0.737,
+      "energy": 0.905,
+      "key": 9,
+      "loudness": -7.21,
+      "mode": 1,
+      "speechiness": 0.0501,
+      "acousticness": 0.25,
+      "instrumentalness": 0,
+      "liveness": 0.0472,
+      "valence": 0.96,
+      "tempo": 145.02,
+      "type": "audio_features",
+      "id": "041vpMVqrDfFKLQXyMkhKT",
+      "uri": "spotify:track:041vpMVqrDfFKLQXyMkhKT",
+      "track_href": "https://api.spotify.com/v1/tracks/041vpMVqrDfFKLQXyMkhKT",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/041vpMVqrDfFKLQXyMkhKT",
+      "duration_ms": 196441,
+      "time_signature": 3
+    }
+  },
+  {
+    "name": "Closer",
+    "id": "7crMiinWx373rNBZBaVske",
+    "album": {
+      "id": "22rp3PnM3q2mtTI0OGCzpq",
+      "name": "Collage EP",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737c3b8acbb943c8da17364f34",
+      "uri": "spotify:album:22rp3PnM3q2mtTI0OGCzpq",
+      "artists": [
+        { "name": "The Chainsmokers", "id": "69GGBxA162lTqCwzJG5jLp" }
+      ]
+    },
+    "analyse": {
+      "danceability": 0.738,
+      "energy": 0.541,
+      "key": 8,
+      "loudness": -5.597,
+      "mode": 1,
+      "speechiness": 0.0303,
+      "acousticness": 0.415,
+      "instrumentalness": 0,
+      "liveness": 0.11,
+      "valence": 0.657,
+      "tempo": 94.949,
+      "type": "audio_features",
+      "id": "7crMiinWx373rNBZBaVske",
+      "uri": "spotify:track:7crMiinWx373rNBZBaVske",
+      "track_href": "https://api.spotify.com/v1/tracks/7crMiinWx373rNBZBaVske",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/7crMiinWx373rNBZBaVske",
+      "duration_ms": 245507,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Gel Benimle",
+    "id": "3uIIQaHIV0cOOmBtitN0BX",
+    "album": {
+      "id": "07yiI9ScrZV7DXiObRz6Sp",
+      "name": "Divane",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d6652ff2755bedbda0914b35",
+      "uri": "spotify:album:07yiI9ScrZV7DXiObRz6Sp",
+      "artists": [{ "name": "Yaşar", "id": "50AOA3aPd6tc928KEYaljF" }]
+    },
+    "analyse": {
+      "danceability": 0.707,
+      "energy": 0.477,
+      "key": 1,
+      "loudness": -7.665,
+      "mode": 0,
+      "speechiness": 0.0395,
+      "acousticness": 0.146,
+      "instrumentalness": 0,
+      "liveness": 0.266,
+      "valence": 0.0672,
+      "tempo": 99.05,
+      "type": "audio_features",
+      "id": "3uIIQaHIV0cOOmBtitN0BX",
+      "uri": "spotify:track:3uIIQaHIV0cOOmBtitN0BX",
+      "track_href": "https://api.spotify.com/v1/tracks/3uIIQaHIV0cOOmBtitN0BX",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/3uIIQaHIV0cOOmBtitN0BX",
+      "duration_ms": 263907,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Yıldızları Yakalamak",
+    "id": "34L96KehUb5Suw4A67MfGt",
+    "album": {
+      "id": "31T0LayJg1oq9KL30lxpTc",
+      "name": "Eski Bir Rüya Uğruna...",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d8541b2acfc75a317a0e1503",
+      "uri": "spotify:album:31T0LayJg1oq9KL30lxpTc",
+      "artists": [{ "name": "Teoman", "id": "40KlwpvpKEQtZTJgbml8lT" }]
+    },
+    "analyse": {
+      "danceability": 0.582,
+      "energy": 0.938,
+      "key": 0,
+      "loudness": -5.951,
+      "mode": 0,
+      "speechiness": 0.0574,
+      "acousticness": 0.0296,
+      "instrumentalness": 0,
+      "liveness": 0.359,
+      "valence": 0.88,
+      "tempo": 150.015,
+      "type": "audio_features",
+      "id": "34L96KehUb5Suw4A67MfGt",
+      "uri": "spotify:track:34L96KehUb5Suw4A67MfGt",
+      "track_href": "https://api.spotify.com/v1/tracks/34L96KehUb5Suw4A67MfGt",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/34L96KehUb5Suw4A67MfGt",
+      "duration_ms": 234661,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Parti",
+    "id": "1obm2JQhSRntJHlBKwb2XD",
+    "album": {
+      "id": "2u4aGMdg3jnsj5HWZC1Yi1",
+      "name": "Kayıtlar 2005-2016",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27398c674de6d8d7438d7825526",
+      "uri": "spotify:album:2u4aGMdg3jnsj5HWZC1Yi1",
+      "artists": [
+        { "name": "mor ve ötesi", "id": "5ixQSDvAMa5O758xG8MWXT" }
+      ]
+    },
+    "analyse": {
+      "danceability": 0.413,
+      "energy": 0.865,
+      "key": 6,
+      "loudness": -5.676,
+      "mode": 0,
+      "speechiness": 0.0467,
+      "acousticness": 0.000153,
+      "instrumentalness": 0.0063,
+      "liveness": 0.241,
+      "valence": 0.388,
+      "tempo": 168.468,
+      "type": "audio_features",
+      "id": "1obm2JQhSRntJHlBKwb2XD",
+      "uri": "spotify:track:1obm2JQhSRntJHlBKwb2XD",
+      "track_href": "https://api.spotify.com/v1/tracks/1obm2JQhSRntJHlBKwb2XD",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/1obm2JQhSRntJHlBKwb2XD",
+      "duration_ms": 206133,
+      "time_signature": 4
+    }
+  },
+  {
+    "name": "Gül Kendine",
+    "id": "4ybCV0bEHU5l6CgMMyNgqQ",
+    "album": {
+      "id": "185kjvjteOQcKqXkRzFCFr",
+      "name": "Gül Kendine",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a85b1b58b96a7bf066ba67f0",
+      "uri": "spotify:album:185kjvjteOQcKqXkRzFCFr",
+      "artists": [
+        { "name": "mor ve ötesi", "id": "5ixQSDvAMa5O758xG8MWXT" }
+      ]
+    },
+    "analyse": {
+      "danceability": 0.57,
+      "energy": 0.687,
+      "key": 4,
+      "loudness": -10.499,
+      "mode": 0,
+      "speechiness": 0.0262,
+      "acousticness": 0.00669,
+      "instrumentalness": 0.462,
+      "liveness": 0.306,
+      "valence": 0.516,
+      "tempo": 120.019,
+      "type": "audio_features",
+      "id": "4ybCV0bEHU5l6CgMMyNgqQ",
+      "uri": "spotify:track:4ybCV0bEHU5l6CgMMyNgqQ",
+      "track_href": "https://api.spotify.com/v1/tracks/4ybCV0bEHU5l6CgMMyNgqQ",
+      "analysis_url": "https://api.spotify.com/v1/audio-analysis/4ybCV0bEHU5l6CgMMyNgqQ",
+      "duration_ms": 259800,
+      "time_signature": 4
+    }
+  }
+]

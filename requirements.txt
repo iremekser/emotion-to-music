@@ -1,0 +1,10 @@
+typing
+jpype
+re
+json
+numpy
+gensim.models
+os
+random
+flask
+flask_cors
