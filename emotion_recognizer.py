@@ -108,8 +108,8 @@ def read_song_json(filename):
         return json.loads(f.read())
 
 def test(morphology):
-    neg = read_txt('data/uzgun.txt', morphology)
-    pos = read_txt('data/mutlu.txt', morphology)
+    neg = read_txt('data/negatif.txt', morphology)
+    pos = read_txt('data/pozitif.txt', morphology)
     neg_test, neg_train = neg[:int(len(neg) / 4)], neg[int(len(neg) / 4):]
     pos_test, pos_train = pos[:int(len(pos) / 4)], pos[int(len(pos) / 4):]
 
@@ -154,8 +154,8 @@ def predict(s, morphology):
         
 
     s = clear(s, morphology)
-    negative = read_txt('data/uzgun.txt', morphology)
-    positive = read_txt('data/mutlu.txt', morphology)
+    negative = read_txt('data/negatif.txt', morphology)
+    positive = read_txt('data/pozitif.txt', morphology)
 
     neg_model = generate_model(negative, 'negative',morphology)
     pos_model = generate_model(positive, 'positive',morphology)
