@@ -4,4 +4,4 @@ numpy
 gensim
 flask
 flask_cors
-gunicorn
+gunicorn==19.3.0
