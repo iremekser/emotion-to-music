@@ -17,7 +17,7 @@ printable.update(list("öçşüğı"))
 # morphology = TurkishMorphology.createWithDefaults()
 
 
-def clear(text):
+def clear(text, morphology):
     text = text.replace('İ','i').replace('I','ı').lower().split()
     text = ' '.join([i for i in text if i not in stops])
     analysis: java.util.ArrayList = (
@@ -45,9 +45,9 @@ def clear(text):
         newX.append(i.strip())
     return ' '.join(newX).replace('  ',' ').replace('unk','')
 
-def read_txt(file):
+def read_txt(file,morphology):
     with open(file) as f:
-        return [clear(i.replace('\n','')) for i in f.readlines()]
+        return [clear(i.replace('\n',''), morphology) for i in f.readlines()]
         
 def avg_sentence_vector(words, model, num_features):
     featureVec = np.zeros((num_features,), dtype="float32")
@@ -82,7 +82,7 @@ def cosine(u,v):
     else:
         return 0
 
-def generate_model(main_data, name):
+def generate_model(main_data, name, morphology):
     if path.isfile(name + '.bin'):
         model = Word2Vec.load(name + '.bin')
         model.vocab = model.wv.vocab
@@ -90,7 +90,7 @@ def generate_model(main_data, name):
         return model
 
     big_title_string = ' '.join(main_data)
-    big_title_string = clear(big_title_string)
+    big_title_string = clear(big_title_string, morphology)
     tokens = big_title_string.split()
     words = [word.lower() for word in tokens if word.isalpha()]
     words = [word for word in words if not word in stops]
@@ -107,14 +107,14 @@ def read_song_json(filename):
     with open(filename) as f:
         return json.loads(f.read())
 
-def test():
-    neg = read_txt('data/uzgun.txt')
-    pos = read_txt('data/mutlu.txt')
+def test(morphology):
+    neg = read_txt('data/uzgun.txt', morphology)
+    pos = read_txt('data/mutlu.txt', morphology)
     neg_test, neg_train = neg[:int(len(neg) / 4)], neg[int(len(neg) / 4):]
     pos_test, pos_train = pos[:int(len(pos) / 4)], pos[int(len(pos) / 4):]
 
-    neg_model = generate_model(neg_train, 'test_neg')
-    pos_model = generate_model(pos_train, 'test_pos')
+    neg_model = generate_model(neg_train, 'test_neg', morphology)
+    pos_model = generate_model(pos_train, 'test_pos',morphology)
 
     neg_results = []
     pos_results = []
@@ -150,21 +150,15 @@ def test():
 
     return neg_results, pos_results
 
-morphology = None;
-def predict(s):
-    global morphology;
-    if not morphology:
-        ZEMBEREK_PATH = r'data/zemberek-full.jar'
-        startJVM(getDefaultJVMPath(), '-ea', '-Djava.class.path=%s' % (ZEMBEREK_PATH))
-        TurkishMorphology = JClass('zemberek.morphology.TurkishMorphology')
-        morphology = TurkishMorphology.createWithDefaults()
+def predict(s, morphology):
+        
 
-    s = clear(s)
-    negative = read_txt('data/uzgun.txt')
-    positive = read_txt('data/mutlu.txt')
+    s = clear(s, morphology)
+    negative = read_txt('data/uzgun.txt', morphology)
+    positive = read_txt('data/mutlu.txt', morphology)
 
-    neg_model = generate_model(negative, 'negative')
-    pos_model = generate_model(positive, 'positive')
+    neg_model = generate_model(negative, 'negative',morphology)
+    pos_model = generate_model(positive, 'positive',morphology)
 
     pos_skor = similarity(s, positive, pos_model)
     neg_skor = similarity(s, negative, neg_model)
