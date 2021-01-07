@@ -1,5 +1,5 @@
 typing
-jpype
+jpype1
 re
 json
 numpy
